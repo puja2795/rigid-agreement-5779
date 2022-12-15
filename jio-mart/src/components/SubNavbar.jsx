@@ -1,20 +1,9 @@
-import { Link, Box, Text, Flex, Icon } from "@chakra-ui/react";
-import { FaAngleDown } from "react-icons/fa";
+import { Box, Text, Flex, Icon} from "@chakra-ui/react";
 import { MdLocationPin } from "react-icons/md";
+import Links from "../data.json";
+import SubMenu from "./SubMenu";
 
 export default function SubNavbar() {
-  const Links = [
-    "Groceries",
-    "Premium Fruits",
-    "Home & Kitchen",
-    "Fashion",
-    "Electronics",
-    "Beauty",
-    "Home Improvement",
-    "Sports",
-    "Toys & Luggage",
-  ];
-
   return (
     <>
       <Box
@@ -26,7 +15,7 @@ export default function SubNavbar() {
         fontSize="md"
         fontWeight="semibold"
       >
-        <Box m="auto" w="70%">
+        <Box m="auto" w="90%">
           <Flex gap={14}>
             <Box>
               <Flex gap="4">
@@ -41,13 +30,11 @@ export default function SubNavbar() {
                 </Box>
               </Flex>
             </Box>
-            <Flex gap={10}>
-              {Links.map((link) => (
-                <Box >
-                  <Text color="black" key={link}>
-                    {link} <Icon as={FaAngleDown} mt="2" />
-                  </Text>
-                </Box>
+            <Flex gap={5}>
+              {Links.map((link, index) => (
+                <>
+                  <SubMenu key={index} item={link}/>
+                </>
               ))}
             </Flex>
           </Flex>
