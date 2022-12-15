@@ -7,30 +7,35 @@ import {
   InputGroup,
   Input,
   InputRightElement,
-  Link,
   useDisclosure,
-  useColorModeValue,
-  Stack,
 } from "@chakra-ui/react";
 import { HamburgerIcon, CloseIcon } from "@chakra-ui/icons";
 import { MdFormatListBulleted } from "react-icons/md";
 import { FaUser, FaShoppingCart } from "react-icons/fa";
-
+import SideDrawer from "./SideDrawer";
 
 export default function Navbar() {
   const { isOpen, onOpen, onClose } = useDisclosure();
 
   return (
     <>
-      <Box bg="#008ecc" color="white" px={4} h={20} textAlign='center'>
-        <Box w='70%' pt='2' m="auto">
-          <Flex h={16} alignItems={"center"} justifyContent={"space-between"} gap='8'>
-            <HamburgerIcon boxSize={10} />
+      <Box bg="#008ecc" color="white" px={4} h={20} textAlign="center">
+        <Box w="90%" pt="2" m="auto">
+          <Flex
+            h={16}
+            alignItems={"center"}
+            justifyContent={"space-between"}
+            gap="8"
+          >
+            
+            <HamburgerIcon boxSize={10} onClick={onOpen} />
+            <SideDrawer onClose={onClose} isOpen={isOpen}/>
             <Image
               src="https://www.jiomart.com/assets/version1669919139/smartweb/images/jiomart_logo_beta.svg"
-              alt="logo" h='41'
+              alt="logo"
+              h="41"
             />
-            <InputGroup width="60%" margin="auto">
+            <InputGroup width="55%" margin="auto">
               <Input
                 bg="white"
                 placeholder="Search essentials, groceries, and more...  "

@@ -1,0 +1,113 @@
+[
+    {
+      "name": "Groceries",
+      "items": [
+        "Fruits & Vegetables",
+        "Dairy & Bakery",
+        "Staples",
+        "Snacks & Branded Foods",
+        "Beverages",
+        "Personal Care",
+        "Home Care",
+        "Apparel",
+        "Home & Kitchen",
+        "Mom & Baby Care",
+        "Books",
+        "Pets"
+      ]
+    },
+    {
+      "name": "Premium Fruits",
+      "items": [
+        "Apples & Pears",
+        "Avocado, Peach, Plum",
+        "Banana, Melons & Coconut",
+        "Cherries, Berries & Exotic Fruits",
+        "Citrus, Mango & Grapes",
+        "Dates",
+        "Gift, Assorted & XL Packs",
+        "Pomegranate, Papaya & Pineapple",
+        "Seasonal & Minor Fruits"
+      ]
+    },
+    {
+      "name": "Home & Kitchen",
+      "items": [
+        "Bathroom & Laundry Accessories",
+        "Disposables",
+        "Furnishing",
+        "Furniture",
+        "Garden & Outdoor",
+        "Home Decor",
+        "Kitchenware",
+        "Prayer & Spiritual Needs",
+        "Tableware"
+      ]
+    },
+    {
+      "name": "Fashion",
+      "items": ["Men", "Women", "Boys", "Girls", "Junior Boys", "Infants"]
+    },
+    {
+      "name": "Electronics",
+      "items": [
+        "Mobiles & Tablets",
+        "TV & Speaker",
+        "Home Appliances",
+        "Computers",
+        "Cameras",
+        "Kitchen Appliances",
+        "Personal Care & Grooming",
+        "Smart Devices",
+        "Gaming",
+        "Accessories",
+        "resQ Services",
+        "Phones",
+        "Office Products",
+        "Health Care Devices",
+        "Electronic Musical Instruments",
+        "Car Accessories"
+      ]
+    },
+    {
+      "name": "Beauty",
+      "items": [
+        "Make-Up",
+        "Hair",
+        "Skin Care",
+        "Fragrances",
+        "Personal Care",
+        "Mom & Baby",
+        "Men's Grooming",
+        "Tools & Appliances",
+        "Wellness",
+        "Fitness",
+        "Ayush",
+        "Treatments"
+      ]
+    },
+    {
+      "name": "Home Improvement",
+      "items": [
+        "Auto Care",
+        "Carpentry",
+        "Electrical",
+        "Hardware & Plumbing",
+        "Home Cleaning & Organisation",
+        "Industrial & Scientific Supplies",
+        "Home Safety & Automation",
+        "Kitchen & Bath Fixtures",
+        "Packaging Supplies",
+        "Paint, Wall Treatments & Supplies",
+        "Power & Hand Tools"
+      ]
+    },
+    {
+      "name": "Sports, Toys & Luggage",
+      "items": [
+        "Toys & Games",
+        "Bags & Travel Luggage",
+        "Sporting Goods & Fitness Equipment"
+      ]
+    }
+  ]
