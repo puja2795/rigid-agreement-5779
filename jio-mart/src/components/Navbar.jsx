@@ -19,7 +19,7 @@ export default function Navbar() {
 
   return (
     <>
-      <Box bg="#008ecc" color="white" px={4} h={20} textAlign="center">
+      <Box bg="#008ecc" color="white" px={4} h={20} textAlign="center" className="navbar">
         <Box w="90%" pt="2" m="auto">
           <Flex
             h={16}

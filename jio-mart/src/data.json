@@ -1,4 +1,5 @@
-[
+{
+  "nav_items": [
     {
       "name": "Groceries",
       "items": [
@@ -110,4 +111,151 @@
         "Sporting Goods & Fitness Equipment"
       ]
     }
+  ],
+  "trending": [
+    {
+      "product_title": "Himalaya Products and Supplements",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/51B9TuaCzNL.jpg",
+      "app_sale_price": "",
+      "app_sale_range": { "min": "14.39", "max": "29.08", "currency": "USD" },
+      "app_sale_price_currency": "",
+      "product_detail_url": "https://www.amazon.com/PartySmart-Capsule-Morning-Plant-based-capsules/dp/B007HMRJCQ",
+      "product_id": "B007HMRJCQ",
+      "original_price": "",
+      "deal_start": "2022-12-16T08:00:00.000Z",
+      "deal_end": "2022-12-17T07:55:00.000Z"
+    },
+    {
+      "product_title": "Gear up for the game with Echo Buds (2nd Gen) & Echo Dot (3rd Gen)",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41B3maqllnL.jpg",
+      "app_sale_price": "69.99",
+      "app_sale_range": { "min": 0, "max": 0, "currency": "" },
+      "app_sale_price_currency": "USD",
+      "product_detail_url": "https://www.amazon.com/Wireless-earbuds-active-noise-cancellation/dp/B0BJMZ5TF4",
+      "product_id": "B0BJMZ5TF4",
+      "original_price": "159.97",
+      "deal_start": "2022-12-15T04:00:00.000Z",
+      "deal_end": "2022-12-17T07:59:59.000Z"
+    },
+    {
+      "product_title": "Hisense 58 inch Fire TV",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41-0fDp28qL.jpg",
+      "app_sale_price": "399.99",
+      "app_sale_range": { "min": 0, "max": 0, "currency": "" },
+      "app_sale_price_currency": "USD",
+      "product_detail_url": "https://www.amazon.com/Hisense-58-inch-Quantum-Smart-58U6HF/dp/B0B7CLH7RW",
+      "product_id": "B0B7CLH7RW",
+      "original_price": "599.99",
+      "deal_start": "2022-12-13T00:30:00.000Z",
+      "deal_end": "2022-12-22T07:45:00.000Z"
+    },
+    {
+      "product_title": "Dog Bark Collar for Small Medium Large Dogs,No Bark Collar with No Shock Mode,Rechargeable Anti Barking Collar with Beep Vibration Harmless Shock - Black",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/51twZGzQuvL.jpg",
+      "app_sale_price": "",
+      "app_sale_range": { "min": "29.25", "max": "5029.15", "currency": "USD" },
+      "app_sale_price_currency": "",
+      "product_detail_url": "https://www.amazon.com/Collar-Rechargeable-Barking-Vibration-Harmless/dp/B09P9Z2KWX",
+      "product_id": "B09P9Z2KWX",
+      "original_price": "",
+      "deal_start": "2022-12-12T08:00:00.000Z",
+      "deal_end": "2022-12-19T07:45:00.000Z"
+    },
+    {
+      "product_title": "Plantar Fasciitis High Arch Support Insoles for Men Women, Flat Feet Orthotic Insert, Work Boot Shoe Insole, Absorb Shock with Every Step,Maximum Cushioning,Men's/Women's",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41TaHejQ5fL.jpg",
+      "app_sale_price": "",
+      "app_sale_range": { "min": "9.99", "max": "18690.0", "currency": "USD" },
+      "app_sale_price_currency": "",
+      "product_detail_url": "https://www.amazon.com/Cushions-Inserts-Filler-Improved-Comfort/dp/B0BD82Y6ZT",
+      "product_id": "B0BD82Y6ZT",
+      "original_price": "",
+      "deal_start": "2022-12-12T08:00:00.000Z",
+      "deal_end": "2022-12-19T07:45:00.000Z"
+    },
+    {
+      "product_title": "Shower Curtain Hooks Rings, Set of 12, Stainless Steel Roller Rust-Resistant Balance Slide Anti-Drop Double Shower Hooks for Curtain Bathroom Shower Curtains",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/417IyeTgeXL.jpg",
+      "app_sale_price": "",
+      "app_sale_range": { "min": "7.99", "max": "7800.0", "currency": "USD" },
+      "app_sale_price_currency": "",
+      "product_detail_url": "https://www.amazon.com/Shower-Stainless-Rust-Resistant-Anti-Drop-Bathroom/dp/B09ZV4LBXK",
+      "product_id": "B09ZV4LBXK",
+      "original_price": "",
+      "deal_start": "2022-12-12T08:00:00.000Z",
+      "deal_end": "2022-12-19T07:45:00.000Z"
+    },
+    {
+      "product_title": "Himalaya Products and Supplements",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/51B9TuaCzNL.jpg",
+      "app_sale_price": "",
+      "app_sale_range": { "min": "14.39", "max": "29.08", "currency": "USD" },
+      "app_sale_price_currency": "",
+      "product_detail_url": "https://www.amazon.com/PartySmart-Capsule-Morning-Plant-based-capsules/dp/B007HMRJCQ",
+      "product_id": "B007HMRJCQ",
+      "original_price": "",
+      "deal_start": "2022-12-16T08:00:00.000Z",
+      "deal_end": "2022-12-17T07:55:00.000Z"
+    },
+    {
+      "product_title": "Gear up for the game with Echo Buds (2nd Gen) & Echo Dot (3rd Gen)",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41B3maqllnL.jpg",
+      "app_sale_price": "69.99",
+      "app_sale_range": { "min": 0, "max": 0, "currency": "" },
+      "app_sale_price_currency": "USD",
+      "product_detail_url": "https://www.amazon.com/Wireless-earbuds-active-noise-cancellation/dp/B0BJMZ5TF4",
+      "product_id": "B0BJMZ5TF4",
+      "original_price": "159.97",
+      "deal_start": "2022-12-15T04:00:00.000Z",
+      "deal_end": "2022-12-17T07:59:59.000Z"
+    },
+    {
+      "product_title": "Hisense 58 inch Fire TV",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41-0fDp28qL.jpg",
+      "app_sale_price": "399.99",
+      "app_sale_range": { "min": 0, "max": 0, "currency": "" },
+      "app_sale_price_currency": "USD",
+      "product_detail_url": "https://www.amazon.com/Hisense-58-inch-Quantum-Smart-58U6HF/dp/B0B7CLH7RW",
+      "product_id": "B0B7CLH7RW",
+      "original_price": "599.99",
+      "deal_start": "2022-12-13T00:30:00.000Z",
+      "deal_end": "2022-12-22T07:45:00.000Z"
+    },
+    {
+      "product_title": "Dog Bark Collar for Small Medium Large Dogs,No Bark Collar with No Shock Mode,Rechargeable Anti Barking Collar with Beep Vibration Harmless Shock - Black",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/51twZGzQuvL.jpg",
+      "app_sale_price": "",
+      "app_sale_range": { "min": "29.25", "max": "5029.15", "currency": "USD" },
+      "app_sale_price_currency": "",
+      "product_detail_url": "https://www.amazon.com/Collar-Rechargeable-Barking-Vibration-Harmless/dp/B09P9Z2KWX",
+      "product_id": "B09P9Z2KWX",
+      "original_price": "",
+      "deal_start": "2022-12-12T08:00:00.000Z",
+      "deal_end": "2022-12-19T07:45:00.000Z"
+    },
+    {
+      "product_title": "Plantar Fasciitis High Arch Support Insoles for Men Women, Flat Feet Orthotic Insert, Work Boot Shoe Insole, Absorb Shock with Every Step,Maximum Cushioning,Men's/Women's",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/41TaHejQ5fL.jpg",
+      "app_sale_price": "",
+      "app_sale_range": { "min": "9.99", "max": "18690.0", "currency": "USD" },
+      "app_sale_price_currency": "",
+      "product_detail_url": "https://www.amazon.com/Cushions-Inserts-Filler-Improved-Comfort/dp/B0BD82Y6ZT",
+      "product_id": "B0BD82Y6ZT",
+      "original_price": "",
+      "deal_start": "2022-12-12T08:00:00.000Z",
+      "deal_end": "2022-12-19T07:45:00.000Z"
+    },
+    {
+      "product_title": "Shower Curtain Hooks Rings, Set of 12, Stainless Steel Roller Rust-Resistant Balance Slide Anti-Drop Double Shower Hooks for Curtain Bathroom Shower Curtains",
+      "product_main_image_url": "https://m.media-amazon.com/images/I/417IyeTgeXL.jpg",
+      "app_sale_price": "",
+      "app_sale_range": { "min": "7.99", "max": "7800.0", "currency": "USD" },
+      "app_sale_price_currency": "",
+      "product_detail_url": "https://www.amazon.com/Shower-Stainless-Rust-Resistant-Anti-Drop-Bathroom/dp/B09ZV4LBXK",
+      "product_id": "B09ZV4LBXK",
+      "original_price": "",
+      "deal_start": "2022-12-12T08:00:00.000Z",
+      "deal_end": "2022-12-19T07:45:00.000Z"
+    }
   ]
+}

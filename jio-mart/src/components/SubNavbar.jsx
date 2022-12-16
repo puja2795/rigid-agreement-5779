@@ -1,8 +1,9 @@
 import { Box, Text, Flex, Icon} from "@chakra-ui/react";
 import { MdLocationPin } from "react-icons/md";
-import Links from "../data.json";
+import data from "../data.json";
 import SubMenu from "./SubMenu";
 
+const Links = data.nav_items;
 export default function SubNavbar() {
   return (
     <>
@@ -32,9 +33,7 @@ export default function SubNavbar() {
             </Box>
             <Flex gap={5}>
               {Links.map((link, index) => (
-                <>
                   <SubMenu key={index} item={link}/>
-                </>
               ))}
             </Flex>
           </Flex>
