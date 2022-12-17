@@ -45,7 +45,7 @@ function App() {
     <div className="App">
       <Navbar />
       <SubNavbar />
-      {/* <Flex>
+      <Flex>
         <Box margin="auto" ><Icon as={ChevronLeftIcon} boxSize={10} ></Icon></Box>
         <Carousel>
           {cards.map((card, index) => {
@@ -78,7 +78,7 @@ function App() {
       <Box>
         <Image src="https://www.jiomart.com/images/cms/aw_rbslider/slides/1668663411_Sim-Delivery_1240_X_194_px_web.jpg" width="100%"/>
         <Image src="https://www.jiomart.com/images/cms/aw_rbslider/slides/1671129003_SlimBanners_Dec_16th_web.jpg" width="100%"/>
-      </Box> */}
+      </Box>
       <Trending />
       <TopDeals />
     </div>

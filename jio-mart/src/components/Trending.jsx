@@ -15,7 +15,7 @@ const Trending = () => {
     
     return (
         <>
-        <Heading size="lg" alignItems='left'>Trending</Heading>
+        <Heading size="md" textAlign="left" m="10">Trending Brands</Heading>
         <OwnSlider items={products} columns={5} type='image'/>
         </>
     )
