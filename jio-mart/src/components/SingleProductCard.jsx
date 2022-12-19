@@ -28,7 +28,7 @@ export default function SingleProductCard() {
 
   useEffect(() => {
     setProdId(id);
-    setCart(JSON.parse(localStorage.getItem('cart')));
+    setCart(JSON.parse(localStorage.getItem('cart')) || []);
   }, []);
 
   useEffect(() => {
