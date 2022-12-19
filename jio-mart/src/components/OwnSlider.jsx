@@ -16,6 +16,8 @@ import { useState } from "react";
 const OwnSlider = ({ items, columns, type }) => {
   const [start, setStart] = useState(0);
   const [end, setEnd] = useState(columns);
+  const width = (100/columns).toString()+'%';
+  const imageWidth = (90/columns).toString()+'%';
 
   const prevHandler = (e) => {
     // e.prevent
@@ -39,34 +41,32 @@ const OwnSlider = ({ items, columns, type }) => {
         {type == "image" &&
           items.slice(start, end).map((item, index) => {
             return (
-              <Card maxW="sm" key={index}>
-                <CardBody>
-                  <Image src={item} alt="item-photo" borderRadius="lg" />
-                </CardBody>
-              </Card>
+              <Image key={index} w={imageWidth} m="auto" src={item} alt="item-photo" borderRadius="lg" _hover={{transform: "scale(1.1)", transition:"transform .2s"}}/>
             );
           })}
         {type == "card" &&
           items.slice(start, end).map((item, index) => {
             return (
-              <Card maxW="sm" key={index}>
+              <Card key={index} w={width} >
                 <CardBody>
-                  <Image
-                    src={item.product_main_image_url}
-                    alt="item-photo"
-                    borderRadius="lg"
-                    h='200px'
-                  />
+                  <Box>
+                    <Image
+                      src={item["product-image-photo-src"]}
+                      alt="item-photo"
+                      borderRadius="lg" m='auto' _hover={{transform: "scale(1.1)", transition:"transform .2s"}}
+                    />
+                  </Box>
                   <Stack mt="6" spacing="3">
-                    <Heading size="md">Living room Sofa</Heading>
-                    <Heading size="md">Living room Sofa</Heading>
-                    <Text color="blue.600" fontSize="2xl">
-                      $450
+                    <Heading size="sm" h='35px' textAlign='left'>{item.clsgetname.substring(0,50)}</Heading>
+                    <Heading size="sm" textAlign='left'>₹{item.final_price}</Heading>
+                    <Heading size="sm" textAlign='left'><Flex>M.R.P:<Text textDecoration='line-through'>₹{item.price_2}</Text></Flex></Heading>
+                    <Text color="#00a100" fontSize="md" textAlign='left'>
+                    {item.save_price}
                     </Text>
-                    <Button>
-                      <Flex gap='15%'>
-                        <Text>Add to Cart</Text>
-                        <Icon as={AddIcon} />
+                    <Button backgroundColor='#008ecc' color='white' _hover={{ bg: "008ecc" }}>
+                      <Flex gap={10}>
+                        <Box ><Text as='b'>Add to Cart</Text></Box>
+                        <Box ><Icon as={AddIcon} mt="0"/></Box>
                       </Flex>
                     </Button>
                   </Stack>

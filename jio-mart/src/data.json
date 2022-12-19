@@ -1,6 +1,7 @@
 {
   "nav_items": [
     {
+      "path": "/groceries",
       "name": "Groceries",
       "items": [
         "Fruits & Vegetables",
@@ -18,6 +19,7 @@
       ]
     },
     {
+      "path": "/fruits",
       "name": "Premium Fruits",
       "items": [
         "Apples & Pears",
@@ -32,6 +34,7 @@
       ]
     },
     {
+      "path": "/home-kitchen",
       "name": "Home & Kitchen",
       "items": [
         "Bathroom & Laundry Accessories",
@@ -46,10 +49,12 @@
       ]
     },
     {
+      "path": "/all_products",
       "name": "Fashion",
       "items": ["Men", "Women", "Boys", "Girls", "Junior Boys", "Infants"]
     },
     {
+      "path": "/all_products",
       "name": "Electronics",
       "items": [
         "Mobiles & Tablets",
@@ -71,6 +76,7 @@
       ]
     },
     {
+      "path": "/all_products",
       "name": "Beauty",
       "items": [
         "Make-Up",
@@ -88,6 +94,7 @@
       ]
     },
     {
+      "path": "/all_products",
       "name": "Home Improvement",
       "items": [
         "Auto Care",
@@ -104,6 +111,7 @@
       ]
     },
     {
+      "path": "/all_products",
       "name": "Sports, Toys & Luggage",
       "items": [
         "Toys & Games",
@@ -115,361 +123,1887 @@
   "trending": [
     {
       "product_title": "Himalaya Products and Supplements",
-      "product_main_image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1670350341_Samsung_Desktop_version.jpg"
+      "image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1670350341_Samsung_Desktop_version.jpg"
     },
     {
       "product_title": "Gear up for the game with Echo Buds (2nd Gen) & Echo Dot (3rd Gen)",
-      "product_main_image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1670842891_1669789269_MI_Desktop.jpg"
+      "image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1670842891_1669789269_MI_Desktop.jpg"
     },
     {
       "product_title": "Hisense 58 inch Fire TV",
-      "product_main_image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669789289_Parle_Desktop.jpg"
+      "image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669789289_Parle_Desktop.jpg"
     },
     {
       "product_title": "Dog Bark Collar for Small Medium Large Dogs,No Bark Collar with No Shock Mode,Rechargeable Anti Barking Collar with Beep Vibration Harmless Shock - Black",
-      "product_main_image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669785693_Wonderchef_Desktop.jpg"
+      "image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669785693_Wonderchef_Desktop.jpg"
     },
     {
       "product_title": "Plantar Fasciitis High Arch Support Insoles for Men Women, Flat Feet Orthotic Insert, Work Boot Shoe Insole, Absorb Shock with Every Step,Maximum Cushioning,Men's/Women's",
-      "product_main_image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669785711_Lifelong_Desktop.jpg"
+      "image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669785711_Lifelong_Desktop.jpg"
     },
     {
       "product_title": "Shower Curtain Hooks Rings, Set of 12, Stainless Steel Roller Rust-Resistant Balance Slide Anti-Drop Double Shower Hooks for Curtain Bathroom Shower Curtains",
-      "product_main_image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669789323_Tecno_Desktop.jpg"
+      "image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669789323_Tecno_Desktop.jpg"
     },
     {
       "product_title": "Himalaya Products and Supplements",
-      "product_main_image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1670001405_Everteen_Desktop.jpg"
+      "image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1670001405_Everteen_Desktop.jpg"
     },
     {
       "product_title": "Gear up for the game with Echo Buds (2nd Gen) & Echo Dot (3rd Gen)",
-      "product_main_image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669910985_Campus.jpg"
+      "image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669910985_Campus.jpg"
     }
   ],
   "top-deals": [
     {
-      "dis_section 2": "1",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/vaseline-intensive-care-deep-restore-lotion-for-dry-skin-400-ml/490415534",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/490415534/vaseline-intensive-care-deep-moisture-lotion-400-ml-product-images-o490415534-p490415534-0-202203151743.jpg",
+      "dis_section_2": "1",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/vaseline-intensive-care-deep-restore-lotion-for-dry-skin-400-ml/490415534",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/490415534/vaseline-intensive-care-deep-moisture-lotion-400-ml-product-images-o490415534-p490415534-0-202203151743.jpg",
       "clsgetname": "Vaseline Intensive Care Deep Moisture Lotion 400 ml",
-      "final_price": "? 225.00",
-      "price 2": "? 375.00",
-      "save_price": "Save ? 150.00"
+      "final_price": "225.00",
+      "price_2": "375.00",
+      "save_price": "Save 150.00"
+    },
+    {
+      "dis_section_2": "2",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/colgate-strong-teeth-dental-cream-toothpaste-200-g-pack-of-2/491055460",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/491055460/colgate-strong-teeth-dental-cream-toothpaste-500-g-saver-pack-product-images-o491055460-p491055460-0-202203151056.jpg",
+      "clsgetname": "Colgate Strong Teeth Dental Cream Toothpaste 500 g Saver Pack",
+      "final_price": "186.00",
+      "price_2": "266.00",
+      "save_price": "Save 80.00"
+    },
+    {
+      "dis_section_2": "3",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/surf-excel-easy-wash-detergent-powder-5-kg/590837659",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/492367966/surf-excel-easy-wash-detergent-powder-5-kg-product-images-o492367966-p590837659-0-202208111657.jpg",
+      "clsgetname": "Surf Excel Easy Wash Detergent Powder 5 kg",
+      "final_price": "605.00",
+      "price_2": "770.00",
+      "save_price": "Save 165.00"
+    },
+    {
+      "dis_section_2": "4",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/maggi-2-minute-masala-instant-noodles-560-g/490003834",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/490003834/maggi-2-minute-masala-instant-noodles-560-g-product-images-o490003834-p490003834-0-202203150702.jpg",
+      "clsgetname": "Maggi 2-Minute Masala Instant Noodles 560 g",
+      "final_price": "94.00",
+      "price_2": "109.00",
+      "save_price": "Save 15.00"
+    },
+    {
+      "dis_section_2": "5",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/sugar-m-2-kg/590108360",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/491696003/sugar-m-2-kg-product-images-o491696003-p590108360-0-202205272027.jpg",
+      "clsgetname": "Sugar (M) 2 kg",
+      "final_price": "81.00",
+      "price_2": "100.00",
+      "save_price": "Save 19.00"
+    },
+    {
+      "dis_section_2": "6",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/pears-pure-gentle-soap-125-g-buy-4-get-1-free/491085658",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/491085658/pears-pure-gentle-soap-with-natural-oils-125-g-buy-4-get-1-free-product-images-o491085658-p491085658-0-202203170226.jpg",
+      "clsgetname": "Pears Pure & Gentle Soap with Natural Oils 125 g (Buy 4 Get 1 Free)",
+      "final_price": "290.00",
+      "price_2": "392.00",
+      "save_price": "Save 102.00"
+    },
+    {
+      "dis_section_2": "7",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/surf-excel-easy-wash-detergent-powder-1-5-kg/490003796",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/490003796/surf-excel-easy-wash-detergent-powder-1-5-kg-product-images-o490003796-p490003796-0-202203151739.jpg",
+      "clsgetname": "Surf Excel Easy Wash Detergent Powder 1.5 kg",
+      "final_price": "185.00",
+      "price_2": "235.00",
+      "save_price": "Save 50.00"
+    },
+    {
+      "dis_section_2": "8",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/parle-g-gold-biscuits-1-kg/491335633",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/491335633/parle-g-gold-biscuits-1-kg-product-images-o491335633-p491335633-0-202203150704.jpg",
+      "clsgetname": "Parle-G Gold Biscuits 1 kg",
+      "final_price": "115.00",
+      "price_2": "140.00",
+      "save_price": "Save 25.00"
+    },
+    {
+      "dis_section_2": "9",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/tur-arhar-dal-2-kg/491417390",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/491417390/tur-arhar-dal-2-kg-product-images-o491417390-p491417390-0-202203170610.jpg",
+      "clsgetname": "Tur / Arhar Dal 2 kg",
+      "final_price": "240.00",
+      "price_2": "300.00",
+      "save_price": "Save 60.00"
+    },
+    {
+      "dis_section_2": "10",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/colgate-max-fresh-spicy-fresh-red-gel-toothpaste-150-g-pack-of-2/491016281",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/491016281/colgate-max-fresh-spicy-fresh-red-gel-toothpaste-150-g-pack-of-2-product-images-o491016281-p491016281-0-202206021942.jpg",
+      "clsgetname": "Colgate Max Fresh Spicy Fresh Red Gel Toothpaste 150 g (Pack of 2)",
+      "final_price": "136.00",
+      "price_2": "204.00",
+      "save_price": "Save 68.00"
+    },
+    {
+      "dis_section_2": "11",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/tide-jasmine-rose-detergent-powder-5-kg-get-extra-1-kg-free/590838653",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/491252835/tide-jasmine-rose-detergent-powder-5-kg-get-extra-1-kg-free-product-images-o491252835-p590838653-0-202203151949.jpg",
+      "clsgetname": "Tide Jasmine & Rose Detergent Powder 5 kg (Get Extra 1 kg Free)",
+      "final_price": "659.00",
+      "price_2": "709.00",
+      "save_price": "Save 50.00"
+    },
+    {
+      "dis_section_2": "12",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/kissan-fresh-tomato-ketchup-1-2-kg/590809928",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/492391349/kissan-fresh-tomato-ketchup-1-2-kg-product-images-o492391349-p590809928-0-202203150627.jpg",
+      "clsgetname": "Kissan Fresh Tomato Ketchup 1.2 kg",
+      "final_price": "112.00",
+      "price_2": "160.00",
+      "save_price": "Save 48.00"
+    },
+    {
+      "dis_section_2": "13",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/gemini-refined-sunflower-oil-1-l-pouch/490012719",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/490012719/gemini-refined-sunflower-oil-1-l-product-images-o490012719-p490012719-0-202203151822.jpg",
+      "clsgetname": "Gemini Refined Sunflower Oil 1 L",
+      "final_price": "165.00",
+      "price_2": "230.00",
+      "save_price": "Save 65.00"
+    },
+    {
+      "dis_section_2": "14",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/closeup-ever-fresh-red-hot-gel-toothpaste-150-g-pack-of-2/490008332",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/490008332/closeup-everfresh-red-hot-gel-toothpaste-150-g-pack-of-2-product-images-o490008332-p490008332-0-202211281706.jpg",
+      "clsgetname": "Closeup Everfresh+ Red Hot Gel Toothpaste 150 g (Pack of 2)",
+      "final_price": "129.00",
+      "price_2": "200.00",
+      "save_price": "Save 71.00"
+    },
+    {
+      "dis_section_2": "15",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/surf-excel-matic-top-load-liquid-detergent-2-l/491436153",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/491436153/surf-excel-matic-top-load-liquid-detergent-2-l-product-images-o491436153-p491436153-0-202203170632.jpg",
+      "clsgetname": "Surf Excel Matic Top Load Liquid Detergent 2 L",
+      "final_price": "322.00",
+      "price_2": "430.00",
+      "save_price": "Save 108.00"
+    },
+    {
+      "dis_section_2": "16",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/britannia-nutrichoice-hi-fibre-digestive-biscuits-1-kg/491373488",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/491373488/britannia-nutrichoice-hi-fibre-digestive-biscuits-1-kg-product-images-o491373488-p491373488-0-202209281320.jpg",
+      "clsgetname": "Britannia NutriChoice Hi-Fibre Digestive Biscuits 1 kg",
+      "final_price": "149.00",
+      "price_2": "199.00",
+      "save_price": "Save 50.00"
+    },
+    {
+      "dis_section_2": "17",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/amul-cheese-block-1-kg-carton/490010199",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/490010199/amul-cheese-block-1-kg-carton-product-images-o490010199-p490010199-0-202211031818.jpg",
+      "clsgetname": "Amul Cheese Block 1 kg (Carton)",
+      "final_price": "479.00",
+      "price_2": "515.00",
+      "save_price": "Save 36.00"
+    },
+    {
+      "dis_section_2": "18",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/madhur-pure-hygienic-sugar-5-kg/490861956",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/490861956/madhur-pure-hygienic-sugar-5-kg-product-images-o490861956-p490861956-0-202208221852.jpg",
+      "clsgetname": "Madhur Pure & Hygienic Sugar 5 kg",
+      "final_price": "232.00",
+      "price_2": "295.00",
+      "save_price": "Save 63.00"
+    },
+    {
+      "dis_section_2": "19",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/whisper-ultra-wings-sanitary-napkin-with-wings-xl-44-pads/491215527",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/491215527/whisper-ultra-clean-sanitary-napkin-with-wings-xl-44-pads-product-images-o491215527-p491215527-0-202203151140.jpg",
+      "clsgetname": "Whisper Ultra Clean Sanitary Napkin with Wings (XL+) 44 pads",
+      "final_price": "366.00",
+      "price_2": "549.00",
+      "save_price": "Save 183.00"
+    },
+    {
+      "dis_section_2": "20",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/sunfeast-dark-fantasy-choco-fill-cookies-300-g/491319789",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/491319789/sunfeast-dark-fantasy-original-choco-filled-biscuits-300-g-product-images-o491319789-p491319789-0-202205301919.jpg",
+      "clsgetname": "Sunfeast Dark Fantasy Original Choco Filled Biscuits 300 g",
+      "final_price": "112.00",
+      "price_2": "170.00",
+      "save_price": "Save 58.00"
+    },
+    {
+      "dis_section_2": "21",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/saffola-gold-edible-vegetable-blended-oil-5-l-jar/490005648",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/490005648/saffola-gold-healthy-lifestyle-rice-bran-based-blended-oil-5-l-1-l-free-product-images-o490005648-p490005648-0-202204281547.jpg",
+      "clsgetname": "Saffola Gold Healthy Lifestyle Rice Bran Based Blended Oil 5 L + 1 L Free",
+      "final_price": "1089.00",
+      "price_2": "1170.00",
+      "save_price": "Save 81.00"
+    },
+    {
+      "dis_section_2": "22",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/medimix-ayurvedic-18-herbs-classic-soap-125-g-pack-of-4/491019490",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/491019490/medimix-ayurvedic-18-herbs-classic-soap-125-g-buy-4-get-1-free-product-images-o491019490-p491019490-0-202211111852.jpg",
+      "clsgetname": "Medimix Ayurvedic 18-Herbs Classic Soap 125 g (Buy 4 Get 1 Free)",
+      "final_price": "179.00",
+      "price_2": "220.00",
+      "save_price": "Save 41.00"
+    },
+    {
+      "dis_section_2": "23",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/parle-g-original-glucose-biscuits-800-g/490008739",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/490008739/parle-g-original-glucose-biscuits-800-g-product-images-o490008739-p490008739-0-202203170454.jpg",
+      "clsgetname": "Parle-G Original Glucose Biscuits 800 g",
+      "final_price": "80.00",
+      "price_2": "90.00",
+      "save_price": "Save 10.00"
+    },
+    {
+      "dis_section_2": "24",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/aashirvaad-superior-mp-whole-wheat-atta-10-kg/590150649",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/490750662/aashirvaad-superior-mp-whole-wheat-atta-10-kg-product-images-o490750662-p590150649-0-202203171046.jpg",
+      "clsgetname": "Aashirvaad Superior MP Whole Wheat Atta 10 kg",
+      "final_price": "469.00",
+      "price_2": "551.00",
+      "save_price": "Save 82.00"
+    },
+    {
+      "dis_section_2": "25",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/pepsodent-germicheck-cavity-protection-toothpaste-150-g-pack-of-2/490226009",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/490226009/pepsodent-germicheck-cavity-protection-toothpaste-150-g-pack-of-2-product-images-o490226009-p490226009-0-202208111722.jpg",
+      "clsgetname": "Pepsodent Germicheck Advance Anti-Germ Formula Toothpaste 150 g (Pack of 2)",
+      "final_price": "99.00",
+      "price_2": "148.00",
+      "save_price": "Save 49.00"
+    },
+    {
+      "dis_section_2": "26",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/quaker-oats-1-5-kg/490850761",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/490850761/quaker-oats-1-5-kg-product-images-o490850761-p490850761-0-202203170759.jpg",
+      "clsgetname": "Quaker Oats 1.5 kg",
+      "final_price": "205.00",
+      "price_2": "292.00",
+      "save_price": "Save 87.00"
+    },
+    {
+      "dis_section_2": "27",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/dove-cream-beauty-bathing-bar-125-g-buy-4-get-1-free/590287499",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/491961317/dove-cream-beauty-bathing-bar-125-g-buy-4-get-1-free-product-images-o491961317-p590287499-0-202203152303.jpg",
+      "clsgetname": "Dove Cream Beauty Bathing Bar 125 g (Buy 4 Get 1 Free)",
+      "final_price": "349.00",
+      "price_2": "472.00",
+      "save_price": "Save 123.00"
+    },
+    {
+      "dis_section_2": "28",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/dabur-honey-1-kg/490012806",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/490012806/dabur-honey-1-kg-product-images-o490012806-p490012806-0-202203150917.jpg",
+      "clsgetname": "Dabur Honey 1 kg",
+      "final_price": "349.00",
+      "price_2": "475.00",
+      "save_price": "Save 126.00"
+    },
+    {
+      "dis_section_2": "29",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/gowardhan-cheese-slices-plain-476-g/490800934",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/490800934/go-plain-cheese-slices-476-g-pouch-product-images-o490800934-p490800934-0-202203142126.jpg",
+      "clsgetname": "Go Plain Cheese Slices 476 g (Pouch)",
+      "final_price": "225.00",
+      "price_2": "450.00",
+      "save_price": "Save 225.00"
+    },
+    {
+      "dis_section_2": "30",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/priya-fortified-with-vitamin-a-d-refined-sunflower-oil-1-l-pouch/491278308",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/491278308/priya-fortified-with-vitamin-a-d-refined-sunflower-oil-1-l-product-images-o491278308-p491278308-0-202203170524.jpg",
+      "clsgetname": "Priya Fortified With Vitamin A & D Refined Sunflower Oil 1 L",
+      "final_price": "149.00",
+      "price_2": "215.00",
+      "save_price": "Save 66.00"
+    },
+    {
+      "dis_section_2": "31",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/dove-cream-beauty-bathing-bar-125-g-pack-of-3/590287497",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/491961319/dove-cream-beauty-bathing-bar-125-g-pack-of-3-product-images-o491961319-p590287497-0-202203170732.jpg",
+      "clsgetname": "Dove Cream Beauty Bathing Bar 125 g (Pack of 3)",
+      "final_price": "202.00",
+      "price_2": "280.00",
+      "save_price": "Save 78.00"
+    },
+    {
+      "dis_section_2": "32",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/britannia-good-day-cashew-biscuits-1-kg/590116903",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/491695463/britannia-good-day-cashew-biscuits-1-kg-product-images-o491695463-p590116903-0-202203150315.jpg",
+      "clsgetname": "Britannia Good Day Cashew Biscuits 1 Kg",
+      "final_price": "160.00",
+      "price_2": "250.00",
+      "save_price": "Save 90.00"
+    },
+    {
+      "dis_section_2": "33",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/gowardhan-pure-cow-ghee-1-l-jar/490489040",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/490489040/gowardhan-pure-cow-ghee-1-l-jar-product-images-o490489040-p490489040-0-202203170210.jpg",
+      "clsgetname": "Gowardhan Pure Cow Ghee 1 L (Jar)",
+      "final_price": "650.00",
+      "price_2": "699.00",
+      "save_price": "Save 49.00"
+    },
+    {
+      "dis_section_2": "34",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/good-life-almonds-500-g/491186625",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/491186625/good-life-almonds-500-g-product-images-o491186625-p491186625-0-202205180139.jpg",
+      "clsgetname": "Good Life Almonds 500 g",
+      "final_price": "339.00",
+      "price_2": "549.00",
+      "save_price": "Save 210.00"
+    },
+    {
+      "dis_section_2": "35",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/lux-soft-touch-bar-soap-150-g-pack-of-3/490915877",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/490915877/lux-rose-vitamin-e-soft-glowing-skin-soap-bar-150-g-pack-of-3-product-images-o490915877-p490915877-0-202203151351.jpg",
+      "clsgetname": "Lux Rose & Vitamin E Soft Glowing Skin Soap Bar 150 g (Pack of 3)",
+      "final_price": "148.00",
+      "price_2": "198.00",
+      "save_price": "Save 50.00"
+    },
+    {
+      "dis_section_2": "36",
+      "pro_detail_href": "https://www.jiomart.com/p/groceries/surabhi-d-lite-fresh-rich-tomato-ketchup-no-onion-no-garlic-1-kg/491419036",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/491419036/surabhi-d-lite-fresh-rich-tomato-ketchup-no-onion-no-garlic-1-kg-product-images-o491419036-p491419036-0-202203170626.jpg",
+      "clsgetname": "Surabhi D-Lite Fresh & Rich Tomato Ketchup (No Onion No Garlic) 900 g",
+      "final_price": "67.00",
+      "price_2": "135.00",
+      "save_price": "Save 68.00"
+    }
+  ],
+  "topCategories": [
+    {
+      "image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1670956920_0___Shop_From_Top_Categories___HPC_Ministore_Tile.jpg"
+    },
+    {
+      "image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669703570_1667906868_Skincare__Hair_care.jpg"
+    },
+    {
+      "image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1670350107_Shop-From-Top-Categories-20.jpg"
+    },
+    {
+      "image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669703054_1669120666_Tea__Coffee.jpg"
+    },
+    {
+      "image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669703137_1669120884_Biscuits__Cookies.jpg"
+    },
+    {
+      "image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669703198_1669120723_Snacks__Namkeens.jpg"
+    },
+    {
+      "image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669703300_1668783198_Shop-From-Top-Categories-19.jpg"
+    },
+    {
+      "image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669703341_1669354771_Shop-From-Top-Categories-16.jpg"
+    },
+    {
+      "image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669703402_1667814151_1666962092_Shop-From-Top-Categories-17.jpg"
+    },
+    {
+      "image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1671045548_Shop-From-Top-Categories-23.jpg"
+    },
+    {
+      "image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1671045576_Shop-From-Top-Categories-22.jpg"
+    }
+  ],
+  "dailyKitchen": [
+    "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669717028_02.jpg",
+    "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669717057_03.jpg",
+    "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669717086_04.jpg",
+    "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669717115_05.jpg",
+    "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669717138_06.jpg",
+    "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669717161_07.jpg",
+    "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669717188_08.jpg",
+    "https://www.jiomart.com/images/cms/aw_rbslider/slides/1669717212_09.jpg"
+  ],
+  "trendingSmartPhones": [
+    {
+      "dis_section 2": "1",
+      "pro_detail href": "https://www.jiomart.com/p/electronics/motorola-moto-g42-64gb-4gb-ram-metallc-rose-mobile-phone/592617135",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/492850895/motorola-moto-g42-64gb-4gb-ram-metallc-rose-mobile-phone-digital-o492850895-p592617135-0-202207151324.jpeg",
+      "clsgetname": "Motorola Moto G42 64GB, 4GB RAM, Me..",
+      "final_price": "10,999.00",
+      "price_2": "16,999.00",
+      "save_price": "Save 6,000.00"
     },
     {
       "dis_section 2": "2",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/colgate-strong-teeth-dental-cream-toothpaste-200-g-pack-of-2/491055460",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/491055460/colgate-strong-teeth-dental-cream-toothpaste-500-g-saver-pack-product-images-o491055460-p491055460-0-202203151056.jpg",
-      "clsgetname": "Colgate Strong Teeth Dental Cream Toothpaste 500 g Saver Pack",
-      "final_price": "? 186.00",
-      "price 2": "? 266.00",
-      "save_price": "Save ? 80.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/candy-258-litres-2-star-double-door-refrigerator-moon-silver-cdd2582ms/591196470",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/492664449/candy-258l-2-star-frost-free-double-door-refrigerator-cdd2582ms-moon-silver-4-in-1-swift-convertible-toughened-glass-stabilizer-free-operation-digital-o492664449-p591196470-0-202212091107.jpeg",
+      "clsgetname": "Candy 258L 2 Star Frost Free Double..",
+      "final_price": "18,480.00",
+      "price_2": "29,000.00",
+      "save_price": "Save 10,520.00"
     },
     {
       "dis_section 2": "3",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/surf-excel-easy-wash-detergent-powder-5-kg/590837659",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/492367966/surf-excel-easy-wash-detergent-powder-5-kg-product-images-o492367966-p590837659-0-202208111657.jpg",
-      "clsgetname": "Surf Excel Easy Wash Detergent Powder 5 kg",
-      "final_price": "? 605.00",
-      "price 2": "? 770.00",
-      "save_price": "Save ? 165.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/tcl-127-cm-50-inch-ultra-hd-4k-qled-smart-tv-50c635/592233125",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/492913009/tcl-127-cm-50-inch-2yr-warranty-ultra-hd-4k-qled-smart-tv-50c635-digital-o492913009-p592233125-0-202212131612.jpeg",
+      "clsgetname": "TCL 127 cm (50 inch) 2Yr Warranty U..",
+      "final_price": "45,990.00",
+      "price_2": "112,990.00",
+      "save_price": "Save 67,000.00"
     },
     {
       "dis_section 2": "4",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/maggi-2-minute-masala-instant-noodles-560-g/490003834",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/490003834/maggi-2-minute-masala-instant-noodles-560-g-product-images-o490003834-p490003834-0-202203150702.jpg",
-      "clsgetname": "Maggi 2-Minute Masala Instant Noodles 560 g",
-      "final_price": "? 94.00",
-      "price 2": "? 109.00",
-      "save_price": "Save ? 15.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/redmi-note-11s-128-gb-8-gb-ram-polar-white-mobile-phone/591224543",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/492849138/redmi-note-11s-128-gb-8-gb-ram-polar-white-mobile-phone-digital-o492849138-p591224543-0-202208222112.jpeg",
+      "clsgetname": "Redmi Note 11s 128 GB, 8 GB RAM, Po..",
+      "final_price": "16,999.00",
+      "price_2": "21,999.00",
+      "save_price": "Save 5,000.00"
     },
     {
       "dis_section 2": "5",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/sugar-m-2-kg/590108360",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/491696003/sugar-m-2-kg-product-images-o491696003-p590108360-0-202205272027.jpg",
-      "clsgetname": "Sugar (M) 2 kg",
-      "final_price": "? 81.00",
-      "price 2": "? 100.00",
-      "save_price": "Save ? 19.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/realme-26-31-cm-10-4-inch-lte-pad-4-gb-ram-64-gb-real-gold/590934670",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/492573883/realme-26-31-cm-10-4-inch-lte-pad-4-gb-ram-64-gb-real-gold-digital-o492573883-p590934670-0-202112040847.jpeg",
+      "clsgetname": "realme 26.31 cm (10.4 inch) LTE Pad..",
+      "final_price": "16,499.00",
+      "price_2": "32,999.00",
+      "save_price": "Save 16,500.00"
     },
     {
       "dis_section 2": "6",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/pears-pure-gentle-soap-125-g-buy-4-get-1-free/491085658",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/491085658/pears-pure-gentle-soap-with-natural-oils-125-g-buy-4-get-1-free-product-images-o491085658-p491085658-0-202203170226.jpg",
-      "clsgetname": "Pears Pure & Gentle Soap with Natural Oils 125 g (Buy 4 Get 1 Free)",
-      "final_price": "? 290.00",
-      "price 2": "? 392.00",
-      "save_price": "Save ? 102.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/lifelong-10000-mah-li-polymer-ultra-compact-power-bank-10-watts-fast-charging-with-digital-display-and-dual-ports-for-smartphones-smart-watches-neckbands-other-devices-black/595246720",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/rv5fzvunls/lifelong-10000-mah-li-polymer-ultra-compact-power-bank-10-watts-fast-charging-with-digital-display-and-dual-ports-for-smartphones-smart-watches-neckbands-other-devices-black-product-images-orv5fzvunls-p595246720-0-202211120207.jpg",
+      "clsgetname": "Lifelong 10000 mAh Li Polymer Ultra..",
+      "final_price": "499.00",
+      "price_2": "1,800.00",
+      "save_price": "Save 1,301.00"
     },
     {
       "dis_section 2": "7",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/surf-excel-easy-wash-detergent-powder-1-5-kg/490003796",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/490003796/surf-excel-easy-wash-detergent-powder-1-5-kg-product-images-o490003796-p490003796-0-202203151739.jpg",
-      "clsgetname": "Surf Excel Easy Wash Detergent Powder 1.5 kg",
-      "final_price": "? 185.00",
-      "price 2": "? 235.00",
-      "save_price": "Save ? 50.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/realme-c30s-32-gb-2-gb-ram-stripe-blue-mobile-phone/594350221",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/493178281/realme-c30s-32-gb-2-gb-ram-stripe-blue-mobile-phone-digital-o493178281-p594350221-0-202210081712.jpeg",
+      "clsgetname": "Realme C30s 32 GB, 2 GB RAM, Stripe..",
+      "final_price": "6,999.00",
+      "price_2": "9,999.00",
+      "save_price": "Save 3,000.00"
     },
     {
       "dis_section 2": "8",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/parle-g-gold-biscuits-1-kg/491335633",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/491335633/parle-g-gold-biscuits-1-kg-product-images-o491335633-p491335633-0-202203150704.jpg",
-      "clsgetname": "Parle-G Gold Biscuits 1 kg",
-      "final_price": "? 115.00",
-      "price 2": "? 140.00",
-      "save_price": "Save ? 25.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/foxsky-108-cm-43-inch-full-hd-led-android-smart-tv-2k-fhd-series-43fs-vs-black/595060181",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/493179137/foxsky-108-cm-43-inch-full-hd-led-android-smart-tv-2k-fhd-series-43fs-vs-black-digital-o493179137-p595060181-0-202211050253.jpeg",
+      "clsgetname": "Foxsky 108 cm (43 inch) Full HD LED..",
+      "final_price": "14,999.00",
+      "price_2": "41,499.00",
+      "save_price": "Save 26,500.00"
     },
     {
       "dis_section 2": "9",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/tur-arhar-dal-2-kg/491417390",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/491417390/tur-arhar-dal-2-kg-product-images-o491417390-p491417390-0-202203170610.jpg",
-      "clsgetname": "Tur / Arhar Dal 2 kg",
-      "final_price": "? 240.00",
-      "price 2": "? 300.00",
-      "save_price": "Save ? 60.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/bajaj-15-litres-storage-water-heater-new-shakti/590040540",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/491166983/bajaj-15-litres-storage-water-heater-new-shakti-digital-o491166983-p590040540-0-202009260755.png",
+      "clsgetname": "Bajaj 15 litres Storage Water Heate..",
+      "final_price": "7,299.00",
+      "price_2": "11,500.00",
+      "save_price": "Save 4,201.00"
     },
     {
       "dis_section 2": "10",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/colgate-max-fresh-spicy-fresh-red-gel-toothpaste-150-g-pack-of-2/491016281",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/491016281/colgate-max-fresh-spicy-fresh-red-gel-toothpaste-150-g-pack-of-2-product-images-o491016281-p491016281-0-202206021942.jpg",
-      "clsgetname": "Colgate Max Fresh Spicy Fresh Red Gel Toothpaste 150 g (Pack of 2)",
-      "final_price": "? 136.00",
-      "price 2": "? 204.00",
-      "save_price": "Save ? 68.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/redmi-note-11-se-64-gb-6-gb-ram-cosmic-white-mobile-phone/594779651",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/493178812/redmi-note-11-se-64-gb-6-gb-ram-cosmic-white-mobile-phone-digital-o493178812-p594779651-0-202210221329.jpeg",
+      "clsgetname": "Redmi Note 11 SE 64 GB, 6 GB RAM, C..",
+      "final_price": "11,499.00",
+      "price_2": "16,999.00",
+      "save_price": "Save 5,500.00"
     },
     {
       "dis_section 2": "11",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/tide-jasmine-rose-detergent-powder-5-kg-get-extra-1-kg-free/590838653",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/491252835/tide-jasmine-rose-detergent-powder-5-kg-get-extra-1-kg-free-product-images-o491252835-p590838653-0-202203151949.jpg",
-      "clsgetname": "Tide Jasmine & Rose Detergent Powder 5 kg (Get Extra 1 kg Free)",
-      "final_price": "? 659.00",
-      "price 2": "? 709.00",
-      "save_price": "Save ? 50.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/asus-hn084ws-rog-strix-g15-2022-g513-gaming-laptop-amd-ryzen-7-6800h-16gb-1tb-ssd-4gb-nvidia-geforce-rtx-3050-windows-11-mso-fhd-39-62-cm-15-6-inch/591225900",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/492849635/asus-hn084ws-rog-strix-g15-2022-g513-gaming-laptop-amd-ryzen-7-6800h-16gb-1tb-ssd-4gb-nvidia-geforce-rtx-3050-windows-11-mso-fhd-39-62-cm-15-6-inch-digital-o492849635-p591225900-0-202205022206.jpeg",
+      "clsgetname": "Asus HN084WS ROG Strix G15 (2022) G..",
+      "final_price": "110,999.00",
+      "price_2": "152,990.00",
+      "save_price": "Save 41,991.00"
     },
     {
       "dis_section 2": "12",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/kissan-fresh-tomato-ketchup-1-2-kg/590809928",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/492391349/kissan-fresh-tomato-ketchup-1-2-kg-product-images-o492391349-p590809928-0-202203150627.jpg",
-      "clsgetname": "Kissan Fresh Tomato Ketchup 1.2 kg",
-      "final_price": "? 112.00",
-      "price 2": "? 160.00",
-      "save_price": "Save ? 48.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/oneplus-nord-wired-earphone-black/593586795",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/493285965/oneplus-nord-wired-earphone-black-digital-o493285965-p593586795-0-202209022108.png",
+      "clsgetname": "Oneplus Nord Wired Earphone, Black",
+      "final_price": "599.00",
+      "price_2": "1,299.00",
+      "save_price": "Save 700.00"
     },
     {
       "dis_section 2": "13",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/gemini-refined-sunflower-oil-1-l-pouch/490012719",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/490012719/gemini-refined-sunflower-oil-1-l-product-images-o490012719-p490012719-0-202203151822.jpg",
-      "clsgetname": "Gemini Refined Sunflower Oil 1 L",
-      "final_price": "? 165.00",
-      "price 2": "? 230.00",
-      "save_price": "Save ? 65.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/noise-tws-air-buds-nano-with-15-hours-of-playtime-white/590939469",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/492392046/noise-tws-air-buds-nano-with-15-hours-of-playtime-white-digital-o492392046-p590939469-0-202112070925.jpeg",
+      "clsgetname": "Noise TWS Air Buds Nano with 15 hou..",
+      "final_price": "999.00",
+      "price_2": "2,999.00",
+      "save_price": "Save 2,000.00"
     },
     {
       "dis_section 2": "14",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/closeup-ever-fresh-red-hot-gel-toothpaste-150-g-pack-of-2/490008332",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/490008332/closeup-everfresh-red-hot-gel-toothpaste-150-g-pack-of-2-product-images-o490008332-p490008332-0-202211281706.jpg",
-      "clsgetname": "Closeup Everfresh+ Red Hot Gel Toothpaste 150 g (Pack of 2)",
-      "final_price": "? 129.00",
-      "price 2": "? 200.00",
-      "save_price": "Save ? 71.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/bpl-kitchenup-bjc00150-centrifugal-juicer/590705026",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/491903046/bpl-kitchenup-bjc00150-centrifugal-juicer-digital-o491903046-p590705026-0-202109061637.jpeg",
+      "clsgetname": "BPL 500W Centrifugal Juicer with Wi..",
+      "final_price": "1,599.00",
+      "price_2": "4,799.00",
+      "save_price": "Save 3,200.00"
     },
     {
       "dis_section 2": "15",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/surf-excel-matic-top-load-liquid-detergent-2-l/491436153",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/491436153/surf-excel-matic-top-load-liquid-detergent-2-l-product-images-o491436153-p491436153-0-202203170632.jpg",
-      "clsgetname": "Surf Excel Matic Top Load Liquid Detergent 2 L",
-      "final_price": "? 322.00",
-      "price 2": "? 430.00",
-      "save_price": "Save ? 108.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/apple-ipad-pro-4th-gen-2022-27-96-cm-11-inch-tablet-256-gb-space-grey-mnxf3hn-a-wi-fi/594779608",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/493178857/apple-ipad-pro-4th-gen-2022-27-96-cm-11-inch-tablet-256-gb-space-grey-mnxf3hn-a-wi-fi-digital-o493178857-p594779608-0-202210221327.jpeg",
+      "clsgetname": "Apple iPad Pro 4th Gen (2022) 27.96..",
+      "final_price": "89,999.00",
+      "price_2": "91,900.00",
+      "save_price": "Save 1,901.00"
     },
     {
       "dis_section 2": "16",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/britannia-nutrichoice-hi-fibre-digestive-biscuits-1-kg/491373488",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/491373488/britannia-nutrichoice-hi-fibre-digestive-biscuits-1-kg-product-images-o491373488-p491373488-0-202209281320.jpg",
-      "clsgetname": "Britannia NutriChoice Hi-Fibre Digestive Biscuits 1 kg",
-      "final_price": "? 149.00",
-      "price 2": "? 199.00",
-      "save_price": "Save ? 50.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/redmi-139-7-cm-55-inch-ultra-hd-4k-led-smart-tv-x-series-ela4580in/591195019",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/492571692/redmi-139-7-cm-55-inch-ultra-hd-4k-led-smart-tv-x-series-ela4580in-digital-o492571692-p591195019-0-202203141415.jpeg",
+      "clsgetname": "Redmi 139.7 cm (55 inch) Ultra HD 4..",
+      "final_price": "39,999.00",
+      "price_2": "54,999.00",
+      "save_price": "Save 15,000.00"
     },
     {
       "dis_section 2": "17",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/amul-cheese-block-1-kg-carton/490010199",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/490010199/amul-cheese-block-1-kg-carton-product-images-o490010199-p490010199-0-202211031818.jpg",
-      "clsgetname": "Amul Cheese Block 1 kg (Carton)",
-      "final_price": "? 479.00",
-      "price 2": "? 515.00",
-      "save_price": "Save ? 36.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/hammer-pulse-ace-pro-smart-watch/595479497",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/493177732/hammer-pulse-ace-pro-smart-watch-digital-o493177732-p595479497-0-202211211954.jpeg",
+      "clsgetname": "Hammer Pulse Ace Pro Smart Watch wi..",
+      "final_price": "1,499.00",
+      "price_2": "4,999.00",
+      "save_price": "Save 3,500.00"
     },
     {
       "dis_section 2": "18",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/madhur-pure-hygienic-sugar-5-kg/490861956",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/490861956/madhur-pure-hygienic-sugar-5-kg-product-images-o490861956-p490861956-0-202208221852.jpg",
-      "clsgetname": "Madhur Pure & Hygienic Sugar 5 kg",
-      "final_price": "? 232.00",
-      "price 2": "? 295.00",
-      "save_price": "Save ? 63.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/intern-int-38c-lgp-bk-acoustic-guitar-with-bag-strap-and-picks-natural/593408559",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/493179095/intern-int-38c-lgp-bk-acoustic-guitar-with-bag-strap-and-picks-natural-digital-o493179095-p593408559-0-202208092007.jpeg",
+      "clsgetname": "Intern INT-38C-LGP-BK Acoustic Guit..",
+      "final_price": "1,999.00",
+      "price_2": "4,995.00",
+      "save_price": "Save 2,996.00"
     },
     {
       "dis_section 2": "19",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/whisper-ultra-wings-sanitary-napkin-with-wings-xl-44-pads/491215527",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/491215527/whisper-ultra-clean-sanitary-napkin-with-wings-xl-44-pads-product-images-o491215527-p491215527-0-202203151140.jpg",
-      "clsgetname": "Whisper Ultra Clean Sanitary Napkin with Wings (XL+) 44 pads",
-      "final_price": "? 366.00",
-      "price 2": "? 549.00",
-      "save_price": "Save ? 183.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/ptron-bassbuds-fute-tws-earbuds-black/592039804",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/492912953/ptron-bassbuds-fute-tws-earbuds-black-digital-o492912953-p592039804-0-202206102115.jpeg",
+      "clsgetname": "pTron Bassbuds Fute TWS Earbuds , B..",
+      "final_price": "799.00",
+      "price_2": "3,299.00",
+      "save_price": "Save 2,500.00"
     },
     {
       "dis_section 2": "20",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/sunfeast-dark-fantasy-choco-fill-cookies-300-g/491319789",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/491319789/sunfeast-dark-fantasy-original-choco-filled-biscuits-300-g-product-images-o491319789-p491319789-0-202205301919.jpg",
-      "clsgetname": "Sunfeast Dark Fantasy Original Choco Filled Biscuits 300 g",
-      "final_price": "? 112.00",
-      "price 2": "? 170.00",
-      "save_price": "Save ? 58.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/acer-ek220q-21-5-inch-full-hd-va-panel-backlit-led-lcd-monitor-i-250-nits-i-hdmi-and-vga-ports-i-eye-care-features-like-bluelight-shield-flickerless-comfyview/592533669",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/rvbznybfeg/acer-ek220q-21-5-inch-full-hd-va-panel-backlit-led-lcd-monitor-i-250-nits-i-hdmi-and-vga-ports-i-eye-care-features-like-bluelight-shield-flickerless-comfyview-product-images-orvbznybfeg-p592533669-0-202207130220.jpg",
+      "clsgetname": "Acer EK220Q (21.5 Inch) Full HD VA..",
+      "final_price": "6,299.00",
+      "price_2": "13,750.00",
+      "save_price": "Save 7,451.00"
     },
     {
       "dis_section 2": "21",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/saffola-gold-edible-vegetable-blended-oil-5-l-jar/490005648",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/490005648/saffola-gold-healthy-lifestyle-rice-bran-based-blended-oil-5-l-1-l-free-product-images-o490005648-p490005648-0-202204281547.jpg",
-      "clsgetname": "Saffola Gold Healthy Lifestyle Rice Bran Based Blended Oil 5 L + 1 L Free",
-      "final_price": "? 1089.00",
-      "price 2": "? 1170.00",
-      "save_price": "Save ? 81.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/asus-hn113ws-tuf-gaming-a15-gaming-laptop-amd-ryzen-5-4600h-16-gb-512-gb-ssd-4-gb-nvidia-geforce-gtx-1650-graphics-windows-11-home-mso-fhd-39-62-cm-15-6-inch/594311934",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/493178258/asus-hn113ws-tuf-gaming-a15-gaming-laptop-amd-ryzen-5-4600h-16-gb-512-gb-ssd-4-gb-nvidia-geforce-gtx-1650-graphics-windows-11-home-mso-fhd-39-62-cm-15-6-inch-digital-o493178258-p594311934-0-202210070638.jpeg",
+      "clsgetname": "Asus HN113WS TUF Gaming A15 Gaming..",
+      "final_price": "59,999.00",
+      "price_2": "75,990.00",
+      "save_price": "Save 15,991.00"
     },
     {
       "dis_section 2": "22",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/medimix-ayurvedic-18-herbs-classic-soap-125-g-pack-of-4/491019490",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/491019490/medimix-ayurvedic-18-herbs-classic-soap-125-g-buy-4-get-1-free-product-images-o491019490-p491019490-0-202211111852.jpg",
-      "clsgetname": "Medimix Ayurvedic 18-Herbs Classic Soap 125 g (Buy 4 Get 1 Free)",
-      "final_price": "? 179.00",
-      "price 2": "? 220.00",
-      "save_price": "Save ? 41.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/ubon-sp-185-grey-10-w-stereo-channel-bluetooth-speaker/595125980",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/rvcphr4ogk/ubon-sp-185-grey-10-w-stereo-channel-bluetooth-speaker-product-images-orvcphr4ogk-p595125980-0-202211072141.jpg",
+      "clsgetname": "Ubon SP-185 Grey 10 W Stereo Channe..",
+      "final_price": "583.00",
+      "price_2": "1,490.00",
+      "save_price": "Save 907.00"
     },
     {
       "dis_section 2": "23",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/parle-g-original-glucose-biscuits-800-g/490008739",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/490008739/parle-g-original-glucose-biscuits-800-g-product-images-o490008739-p490008739-0-202203170454.jpg",
-      "clsgetname": "Parle-G Original Glucose Biscuits 800 g",
-      "final_price": "? 80.00",
-      "price 2": "? 90.00",
-      "save_price": "Save ? 10.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/hisense-94-litre-2-star-single-door-refrigerator-silver-rr94d4ssn/595017370",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/493627170/hisense-94-litre-2-star-single-door-refrigerator-silver-rr94d4ssn-digital-o493627170-p595017370-0-202211040058.jpeg",
+      "clsgetname": "Hisense 94 Litre 2 Star Single Door..",
+      "final_price": "10,490.00",
+      "price_2": "13,990.00",
+      "save_price": "Save 3,500.00"
     },
     {
       "dis_section 2": "24",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/aashirvaad-superior-mp-whole-wheat-atta-10-kg/590150649",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/490750662/aashirvaad-superior-mp-whole-wheat-atta-10-kg-product-images-o490750662-p590150649-0-202203171046.jpg",
-      "clsgetname": "Aashirvaad Superior MP Whole Wheat Atta 10 kg",
-      "final_price": "? 469.00",
-      "price 2": "? 551.00",
-      "save_price": "Save ? 82.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/sansui-6-5-kg-top-load-fully-automatic-washing-machine-jsp65ftl-2024b-ash-grey/592167319",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/492911083/sansui-6-5-kg-top-load-fully-automatic-washing-machine-jsp65ftl-2024b-ash-grey-digital-o492911083-p592167319-0-202209250043.jpeg",
+      "clsgetname": "Sansui 6.5 Kg Top Load Fully Automa..",
+      "final_price": "11,790.00",
+      "price_2": "18,990.00",
+      "save_price": "Save 7,200.00"
     },
     {
       "dis_section 2": "25",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/pepsodent-germicheck-cavity-protection-toothpaste-150-g-pack-of-2/490226009",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/490226009/pepsodent-germicheck-cavity-protection-toothpaste-150-g-pack-of-2-product-images-o490226009-p490226009-0-202208111722.jpg",
-      "clsgetname": "Pepsodent Germicheck Advance Anti-Germ Formula Toothpaste 150 g (Pack of 2)",
-      "final_price": "? 99.00",
-      "price 2": "? 148.00",
-      "save_price": "Save ? 49.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/glen-2000w-electric-oil-filled-radiator-room-heater-with-9-fin-grey-7011-or9/592550224",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/rvmug6oifv/glen-2000w-electric-oil-filled-radiator-room-heater-with-9-fin-grey-7011-or9-product-images-orvmug6oifv-p592550224-0-202207131440.jpg",
+      "clsgetname": "Glen 2000W, Electric Oil Filled Rad..",
+      "final_price": "6,597.00",
+      "price_2": "10,995.00",
+      "save_price": "Save 4,398.00"
     },
     {
       "dis_section 2": "26",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/quaker-oats-1-5-kg/490850761",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/490850761/quaker-oats-1-5-kg-product-images-o490850761-p490850761-0-202203170759.jpg",
-      "clsgetname": "Quaker Oats 1.5 kg",
-      "final_price": "? 205.00",
-      "price 2": "? 292.00",
-      "save_price": "Save ? 87.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/kodak-108-cm-43-inch-ultra-hd-4k-premium-android-tv-with-dolby-digital-plus-and-dts-trusurround-ca-series-43ca2022/590442125",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/492166175/kodak-108-cm-43-inch-ultra-hd-4k-premium-android-tv-with-dolby-digital-plus-and-dts-trusurround-ca-series-43ca2022-digital-o492166175-p590442125-0-202108122324.jpeg",
+      "clsgetname": "Kodak 108 cm (43 inch) Ultra HD (4K..",
+      "final_price": "26,999.00",
+      "price_2": "37,999.00",
+      "save_price": "Save 11,000.00"
     },
     {
       "dis_section 2": "27",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/dove-cream-beauty-bathing-bar-125-g-buy-4-get-1-free/590287499",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/491961317/dove-cream-beauty-bathing-bar-125-g-buy-4-get-1-free-product-images-o491961317-p590287499-0-202203152303.jpg",
-      "clsgetname": "Dove Cream Beauty Bathing Bar 125 g (Buy 4 Get 1 Free)",
-      "final_price": "? 349.00",
-      "price 2": "? 472.00",
-      "save_price": "Save ? 123.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/healthgenie-face-nose-and-cough-steamer-3-in-1-plastic-steam-vaporizer-nozzle-inhaler-facial-sauna-and-facial-steamer-machine-for-adults-and-kids-blue/594027949",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/rvuc1ghdor/healthgenie-face-nose-and-cough-steamer-3-in-1-plastic-steam-vaporizer-nozzle-inhaler-facial-sauna-and-facial-steamer-machine-for-adults-and-kids-blue-product-images-orvuc1ghdor-p594027949-0-202209241424.jpg",
+      "clsgetname": "Healthgenie Face, Nose, and Cough S..",
+      "final_price": "299.00",
+      "price_2": "549.00",
+      "save_price": "Save 250.00"
     },
     {
       "dis_section 2": "28",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/dabur-honey-1-kg/490012806",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/490012806/dabur-honey-1-kg-product-images-o490012806-p490012806-0-202203150917.jpg",
-      "clsgetname": "Dabur Honey 1 kg",
-      "final_price": "? 349.00",
-      "price 2": "? 475.00",
-      "save_price": "Save ? 126.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/voltas-8-8-kg-top-load-semi-automatic-washing-machine-beko-wtt88grtprmdz-grey/592148043",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/492911089/voltas-8-8-kg-top-load-semi-automatic-washing-machine-beko-wtt88grtprmdz-grey-digital-o492911089-p592148043-0-202206220234.jpeg",
+      "clsgetname": "Voltas Beko 8.8 Kg Top Load Semi-Au..",
+      "final_price": "10,990.00",
+      "price_2": "19,990.00",
+      "save_price": "Save 9,000.00"
     },
     {
       "dis_section 2": "29",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/gowardhan-cheese-slices-plain-476-g/490800934",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/490800934/go-plain-cheese-slices-476-g-pouch-product-images-o490800934-p490800934-0-202203142126.jpg",
-      "clsgetname": "Go Plain Cheese Slices 476 g (Pouch)",
-      "final_price": "? 225.00",
-      "price 2": "? 450.00",
-      "save_price": "Save ? 225.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/philips-hl7701-00-4-jar-mixer-grinder-750-watts-white/592528589",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/rv5moxq5es/philips-hl7701-00-4-jar-mixer-grinder-750-watts-white-product-images-orv5moxq5es-p592528589-0-202207122047.jpg",
+      "clsgetname": "PHILIPS HL7701/00 4 Jar Mixer Grind..",
+      "final_price": "4,699.00",
+      "price_2": "6,495.00",
+      "save_price": "Save 1,796.00"
     },
     {
       "dis_section 2": "30",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/priya-fortified-with-vitamin-a-d-refined-sunflower-oil-1-l-pouch/491278308",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/491278308/priya-fortified-with-vitamin-a-d-refined-sunflower-oil-1-l-product-images-o491278308-p491278308-0-202203170524.jpg",
-      "clsgetname": "Priya Fortified With Vitamin A & D Refined Sunflower Oil 1 L",
-      "final_price": "? 149.00",
-      "price 2": "? 215.00",
-      "save_price": "Save ? 66.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/noise-colorfit-caliber-go-smart-watch-with-4-29-cm-1-69-inch-full-touch-color-display-jet-black/594007359",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/493178070/noise-colorfit-caliber-go-smart-watch-with-4-29-cm-1-69-inch-full-touch-color-display-jet-black-digital-o493178070-p594007359-0-202209240125.jpeg",
+      "clsgetname": "Noise ColorFit Caliber Go Smart Wat..",
+      "final_price": "1,349.00",
+      "price_2": "3,999.00",
+      "save_price": "Save 2,650.00"
     },
     {
       "dis_section 2": "31",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/dove-cream-beauty-bathing-bar-125-g-pack-of-3/590287497",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/491961319/dove-cream-beauty-bathing-bar-125-g-pack-of-3-product-images-o491961319-p590287497-0-202203170732.jpg",
-      "clsgetname": "Dove Cream Beauty Bathing Bar 125 g (Pack of 3)",
-      "final_price": "? 202.00",
-      "price 2": "? 280.00",
-      "save_price": "Save ? 78.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/asus-62-23-cm-24-5-inch-tuf-gaming-vg259qr-g-sync-compatible-gaming-monitor/590811738",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/491997455/asus-62-23-cm-24-5-inch-tuf-gaming-vg259qr-g-sync-compatible-gaming-monitor-digital-o491997455-p590811738-0-202110042055.jpeg",
+      "clsgetname": "Asus VG259QR 62.23 cm (24.5 inch) w..",
+      "final_price": "21,999.00",
+      "price_2": "37,000.00",
+      "save_price": "Save 15,001.00"
     },
     {
       "dis_section 2": "32",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/britannia-good-day-cashew-biscuits-1-kg/590116903",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/491695463/britannia-good-day-cashew-biscuits-1-kg-product-images-o491695463-p590116903-0-202203150315.jpg",
-      "clsgetname": "Britannia Good Day Cashew Biscuits 1 Kg",
-      "final_price": "? 160.00",
-      "price 2": "? 250.00",
-      "save_price": "Save ? 90.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/osaka-18-inches-led-ring-light-65w-adjustable-color-temperature-wireless-remote-control-9-feet-light-stand-for-mx-takatak-instagram-vlog-youtube-video-shooting-compatible-with-dslr-camera-smartphones/594007003",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/rvkg2vf9rh/osaka-18-inches-led-ring-light-65w-adjustable-color-temperature-wireless-remote-control-9-feet-light-stand-for-mx-takatak-instagram-vlog-youtube-video-shooting-compatible-with-dslr-camera-smartphones-product-images-orvkg2vf9rh-p594007003-0-202209240115.jpg",
+      "clsgetname": "Osaka 18 Inches LED Ring Light 65W..",
+      "final_price": "3,799.00",
+      "price_2": "11,000.00",
+      "save_price": "Save 7,201.00"
     },
     {
       "dis_section 2": "33",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/gowardhan-pure-cow-ghee-1-l-jar/490489040",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/490489040/gowardhan-pure-cow-ghee-1-l-jar-product-images-o490489040-p490489040-0-202203170210.jpg",
-      "clsgetname": "Gowardhan Pure Cow Ghee 1 L (Jar)",
-      "final_price": "? 650.00",
-      "price 2": "? 699.00",
-      "save_price": "Save ? 49.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/jysuper-rechargeble-beard-trimmer/591263804",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/rv79dqkhev/jysuper-rechargeble-beard-trimmer-product-images-orv79dqkhev-p591263804-0-202205100547.jpg",
+      "clsgetname": "JYSUPER rechargeable beard trimmer..",
+      "final_price": "349.00",
+      "price_2": "1,499.00",
+      "save_price": "Save 1,150.00"
     },
     {
       "dis_section 2": "34",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/good-life-almonds-500-g/491186625",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/491186625/good-life-almonds-500-g-product-images-o491186625-p491186625-0-202205180139.jpg",
-      "clsgetname": "Good Life Almonds 500 g",
-      "final_price": "? 339.00",
-      "price 2": "? 549.00",
-      "save_price": "Save ? 210.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/i-kall-ik005-tower-bt-speaker-brown-auto-play-mp3-music-led-display-amplifier-with-bass-bluetooth-capable-karaoke-mic-sing-along-function-fm-digital-tunar/593318391",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/rvzqm4euhu/i-kall-ik005-tower-bt-speaker-brown-auto-play-mp3-music-led-display-amplifier-with-bass-bluetooth-capable-karaoke-mic-sing-along-function-fm-digital-tunar-product-images-orvzqm4euhu-p593318391-0-202208011030.jpg",
+      "clsgetname": "I Kall IK005 Tower BT Speaker Brown..",
+      "final_price": "3,799.00",
+      "price_2": "4,999.00",
+      "save_price": "Save 1,200.00"
     },
     {
       "dis_section 2": "35",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/lux-soft-touch-bar-soap-150-g-pack-of-3/490915877",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/490915877/lux-rose-vitamin-e-soft-glowing-skin-soap-bar-150-g-pack-of-3-product-images-o490915877-p490915877-0-202203151351.jpg",
-      "clsgetname": "Lux Rose & Vitamin E Soft Glowing Skin Soap Bar 150 g (Pack of 3)",
-      "final_price": "? 148.00",
-      "price 2": "? 198.00",
-      "save_price": "Save ? 50.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/candes-1000-watts-immersion-water-heater-rod-neo/593416589",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/493620545/candes-1000-watts-immersion-water-heater-rod-neo-digital-o493620545-p593416589-0-202208242207.jpeg",
+      "clsgetname": "Candes 1000 Watts Shock-proof Immer..",
+      "final_price": "349.00",
+      "price_2": "599.00",
+      "save_price": "Save 250.00"
     },
     {
       "dis_section 2": "36",
-      "pro_detail href": "https://www.jiomart.com/p/groceries/surabhi-d-lite-fresh-rich-tomato-ketchup-no-onion-no-garlic-1-kg/491419036",
-      "product-image-photo src": "https://www.jiomart.com/images/product/150x150/491419036/surabhi-d-lite-fresh-rich-tomato-ketchup-no-onion-no-garlic-1-kg-product-images-o491419036-p491419036-0-202203170626.jpg",
-      "clsgetname": "Surabhi D-Lite Fresh & Rich Tomato Ketchup (No Onion No Garlic) 900 g",
-      "final_price": "? 67.00",
-      "price 2": "? 135.00",
-      "save_price": "Save ? 68.00"
+      "pro_detail href": "https://www.jiomart.com/p/electronics/panasonic-mx-av325ms-600w-mixer-grinder-silver/593851395",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/rvfkichp1o/panasonic-mx-av325ms-600w-mixer-grinder-silver-product-images-orvfkichp1o-p593851395-0-202209191638.jpg",
+      "clsgetname": "Panasonic MX-AV325MS 600W Mixer Gri..",
+      "final_price": "5,789.00",
+      "price_2": "7,495.00",
+      "save_price": "Save 1,706.00"
+    },
+    {
+      "dis_section 2": "37",
+      "pro_detail href": "https://www.jiomart.com/p/electronics/zebion-19-hd3-1440-x-900-backlit-led-250-nits-5-ms-response-time-1-vga-1-hdmi/593808024",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/rvfcprridj/zebion-19-hd3-1440-x-900-backlit-led-250-nits-5-ms-response-time-1-vga-1-hdmi-product-images-orvfcprridj-p593808024-0-202209161134.jpg",
+      "clsgetname": "Zebion 19-HD3| 1440 x 900| Backlit..",
+      "final_price": "3,999.00",
+      "price_2": "7,970.00",
+      "save_price": "Save 3,971.00"
+    },
+    {
+      "dis_section 2": "38",
+      "pro_detail href": "https://www.jiomart.com/p/electronics/canon-pixma-multi-function-inkjet-wireless-printer-e4570-ink-cartridge/591042409",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/492575053/canon-pixma-multi-function-inkjet-wireless-printer-e4570-ink-cartridge-digital-o492575053-p591042409-0-202202132136.jpeg",
+      "clsgetname": "Canon E4570 Inkjet Multi-function W..",
+      "final_price": "7,849.00",
+      "price_2": "9,910.00",
+      "save_price": "Save 2,061.00"
+    },
+    {
+      "dis_section 2": "39",
+      "pro_detail href": "https://www.jiomart.com/p/electronics/ambrane-evoke-cube-plus-5-watt-portable-bluetooth-speaker-black/596075609",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/rvtzd11u1g/ambrane-evoke-cube-plus-5-watt-portable-bluetooth-speaker-black-product-images-orvtzd11u1g-p596075609-0-202212051726.jpg",
+      "clsgetname": "Ambrane Evoke Cube Plus 5 Watt Port..",
+      "final_price": "599.00",
+      "price_2": "1,699.00",
+      "save_price": "Save 1,100.00"
+    },
+    {
+      "dis_section 2": "40",
+      "pro_detail href": "https://www.jiomart.com/p/electronics/boat-flash-rtl-3-3-cm-1-29-inch-smart-watch-with-customizable-watch-faces-galaxy-blue/591004120",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/492574196/boat-flash-rtl-3-3-cm-1-29-inch-smart-watch-with-customizable-watch-faces-galaxy-blue-digital-o492574196-p591004120-0-202201151254.jpeg",
+      "clsgetname": "boAt Flash Edition Smart Watch with..",
+      "final_price": "1,499.00",
+      "price_2": "6,990.00",
+      "save_price": "Save 5,491.00"
+    },
+    {
+      "dis_section 2": "41",
+      "pro_detail href": "https://www.jiomart.com/p/electronics/acer-ha240y-60-45-cm-23-8-inch-full-hd-ips-ultra-slim-um-qw0si-a01/591223115",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/492849988/acer-ha240y-60-45-cm-23-8-inch-full-hd-ips-ultra-slim-um-qw0si-a01-digital-o492849988-p591223115-0-202204212215.jpeg",
+      "clsgetname": "Acer HA240Y 60.45 cm (23.8 inch) wi..",
+      "final_price": "9,475.00",
+      "price_2": "17,600.00",
+      "save_price": "Save 8,125.00"
+    },
+    {
+      "dis_section 2": "42",
+      "pro_detail href": "https://www.jiomart.com/p/electronics/dizo-watch-sports-i-dw2121-black/594542848",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/rvsik4ap8z/dizo-watch-sports-i-dw2121-black-product-images-orvsik4ap8z-p594542848-0-202210161509.png",
+      "clsgetname": "DIZO Watch 2 Sports i, (by Realme T..",
+      "final_price": "2,499.00",
+      "price_2": "3,499.00",
+      "save_price": "Save 1,000.00"
+    },
+    {
+      "dis_section 2": "43",
+      "pro_detail href": "https://www.jiomart.com/p/electronics/dizo-watch-2-dw2118-in-classic-black/594572597",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/rvvwpycabj/dizo-watch-2-dw2118-in-classic-black-product-images-orvvwpycabj-p594572597-0-202210180821.jpg",
+      "clsgetname": "DIZO Watch 2, (by Realme TechLife),..",
+      "final_price": "2,999.00",
+      "price_2": "3,999.00",
+      "save_price": "Save 1,000.00"
+    },
+    {
+      "dis_section 2": "44",
+      "pro_detail href": "https://www.jiomart.com/p/electronics/ambrane-wise-spirit-smart-watch-with-bluetooth-calling-black/592039778",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/492850573/ambrane-wise-spirit-smart-watch-with-bluetooth-calling-black-digital-o492850573-p592039778-0-202206102114.jpeg",
+      "clsgetname": "Ambrane Wise Spirit Smart Watch wit..",
+      "final_price": "1,499.00",
+      "price_2": "4,999.00",
+      "save_price": "Save 3,500.00"
+    },
+    {
+      "dis_section 2": "45",
+      "pro_detail href": "https://www.jiomart.com/p/electronics/lifelong-llws09-weighing-scale-with-low-battery-indicator/593404648",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/492910965/lifelong-llws09-weighing-scale-with-low-battery-indicator-digital-o492910965-p593404648-0-202208031606.jpeg",
+      "clsgetname": "Lifelong LLWS09 Digital Weight Mach..",
+      "final_price": "899.00",
+      "price_2": "2,499.00",
+      "save_price": "Save 1,600.00"
+    },
+    {
+      "dis_section 2": "46",
+      "pro_detail href": "https://www.jiomart.com/p/electronics/black-decker-bxir2201in-220w-cord-and-cordless-steam-iron-green/592844219",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/rvzlbo28ly/black-decker-bxir2201in-220w-cord-and-cordless-steam-iron-green-product-images-orvzlbo28ly-p592844219-0-202207201926.jpg",
+      "clsgetname": "Black+ Decker BXIR2201IN 2200W Cord..",
+      "final_price": "2,999.00",
+      "price_2": "4,895.00",
+      "save_price": "Save 1,896.00"
+    },
+    {
+      "dis_section 2": "47",
+      "pro_detail href": "https://www.jiomart.com/p/electronics/hp-deskjet-2332-colour-multi-function-inkjet-printer/590049282",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/491897369/hp-deskjet-2332-colour-multi-function-inkjet-printer-digital-o491897369-p590049282-0-202010211526.jpeg",
+      "clsgetname": "HP Deskjet 2332 Inkjet Multi-functi..",
+      "final_price": "3,799.00",
+      "price_2": "4,971.00",
+      "save_price": "Save 1,172.00"
+    },
+    {
+      "dis_section 2": "48",
+      "pro_detail href": "https://www.jiomart.com/p/electronics/dizo-buds-z-pro-da2123-in-orange-black/594836811",
+      "product-image-photo-src": "https://www.jiomart.com/images/product/150x150/rvh2dgdxen/dizo-buds-z-pro-da2123-in-orange-black-product-images-orvh2dgdxen-p594836811-0-202210272018.jpg",
+      "clsgetname": "DIZO Buds Z Pro, Active Noise Cance..",
+      "final_price": "2,699.00",
+      "price_2": "3,999.00",
+      "save_price": "Save 1,300.00"
+    }
+  ],
+  "grid-data": [
+    "https://www.jiomart.com/images/cms/aw_rbslider/slides/1671220017_Frozen-Snacks-Festival_600x350.jpg",
+    "https://www.jiomart.com/images/cms/aw_rbslider/slides/1671219933_600x350.jpg",
+    "https://www.jiomart.com/images/cms/aw_rbslider/slides/1666083460_fortune.jpg",
+    "https://www.jiomart.com/images/cms/aw_rbslider/slides/1667905014_Cold-Pressed-Oil-Belona-Ghee_600x350.jpg",
+    "https://www.jiomart.com/images/cms/aw_rbslider/slides/1667906311_Organic-Range_600x350.jpg",
+    "https://www.jiomart.com/images/cms/aw_rbslider/slides/1667473112_Organic-Range-for-Healthy-Diet-600-350.jpg",
+    "https://www.jiomart.com/images/cms/aw_rbslider/slides/1667908012_Spices_600x350.jpg",
+    "https://www.jiomart.com/images/cms/aw_rbslider/slides/1667459783_01--Staple-Store-_600x350.jpg",
+    "https://www.jiomart.com/images/cms/aw_rbslider/slides/1667457149_Atta_600x350.jpg",
+    "https://www.jiomart.com/images/cms/aw_rbslider/slides/1670219625_Week_2_600_350.jpg",
+    "https://www.jiomart.com/images/cms/aw_rbslider/slides/1670844725_jWeb_Activity_600_X_350_1.jpg",
+    "https://www.jiomart.com/images/cms/aw_rbslider/slides/1670958164_Cake_600x350.jpg",
+    "https://www.jiomart.com/images/cms/aw_rbslider/slides/1671168039_Web_Banner_600x_350px_mopz.jpg",
+    "https://www.jiomart.com/images/cms/aw_rbslider/slides/1671168754_MC_JioMartWeb_Banners_600x350_06.10.22-100.jpg",
+    "https://www.jiomart.com/images/cms/aw_rbslider/slides/1671181632_Web_Banner_600x_350px_expelz.jpg"
+  ],
+  "all_products": [
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rv75kwcf1j/ptron-basspods-p11-wireless-bluetooth-headphones-with-24hrs-playback-10mm-driver-movie-mode-hd-mic-touch-control-earbuds-black-product-images-orv75kwcf1j-p593565959-0-202208302003.jpg",
+      "id": "1",
+      "name": "pTron Basspods P11 Wireless Bluetooth Headphones with 24Hrs Playback, 10mm Driver, Movie Mode, HD Mic & Touch Control Earbuds (Black)",
+      "discount_price": "649.00",
+      "original_price": "2999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492849138/redmi-note-11s-128-gb-8-gb-ram-polar-white-mobile-phone-digital-o492849138-p591224543-0-202208222112.jpeg",
+      "id": "2",
+      "name": "Redmi Note 11s 128 GB, 8 GB RAM, Polar White, Mobile Phone",
+      "discount_price": "16999.00",
+      "original_price": "21999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvjc4k0fok/2-inch-thermal-receipt-printer-wireless-bluetooth-58-mm-thermal-usb-receipt-printer-compatible-windows-android-product-images-orvjc4k0fok-p594095576-0-202209261502.jpg",
+      "id": "3",
+      "name": "Upwade CX588 2 inch Thermal Receipt Printer Wireless Bluetooth 58 mm Receipt Printer",
+      "discount_price": "2399.00",
+      "original_price": "4999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492850895/motorola-moto-g42-64gb-4gb-ram-metallc-rose-mobile-phone-digital-o492850895-p592617135-0-202207151324.jpeg",
+      "id": "4",
+      "name": "Motorola Moto G42 64GB, 4GB RAM, Metallc Rose, Mobile Phone",
+      "discount_price": "10999.00",
+      "original_price": "16999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492574751/hp-150-optical-wireless-mouse-digital-o492574751-p591041410-0-202202021623.jpeg",
+      "id": "5",
+      "name": "HP 150 Optical Wireless Mouse (1600 DPI Resolution, 2S9L1AA, Black)",
+      "discount_price": "499.00",
+      "original_price": "899.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvaq9eao0r/zunvolt-2l-electric-kettle-silver-product-images-orvaq9eao0r-p591300421-0-202205140114.jpg",
+      "id": "6",
+      "name": "ZunVolt 2L Electric Kettle, Silver",
+      "discount_price": "599.00",
+      "original_price": "1499.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvnfdbqgj0/syska-beard-pro-ht200u-trimmer-for-men-with-40-min-runtime-product-images-orvnfdbqgj0-p590941643-0-202112080104.jpg",
+      "id": "7",
+      "name": "Syska Beard Pro HT200U Trimmer for Men with 40 min Runtime",
+      "discount_price": "699.00",
+      "original_price": "999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/493178281/realme-c30s-32-gb-2-gb-ram-stripe-blue-mobile-phone-digital-o493178281-p594350221-0-202210081712.jpeg",
+      "id": "8",
+      "name": "Realme C30s 32 GB, 2 GB RAM, Stripe Blue, Mobile Phone",
+      "discount_price": "6999.00",
+      "original_price": "9999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492850434/epson-multi-function-aio-inkjet-printer-ecotank-l3212-ink-tank-digital-o492850434-p592617114-0-202207151324.jpeg",
+      "id": "9",
+      "name": "EPSON L3212 Inktank Multi-function Color USB Printer",
+      "discount_price": "11999.00",
+      "original_price": "14999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvmmo6e8lz/punnkfunnk-t500-smart-watch-with-calling-feature-and-fitness-heart-rate-activity-tracker-product-images-orvmmo6e8lz-p593564642-0-202208301723.jpg",
+      "id": "10",
+      "name": "PunnkFunnk T500 Smart Watch with Calling Feature and Fitness Heart Rate Activity Tracker |",
+      "discount_price": "799.00",
+      "original_price": "4999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492664389/sansui-7-kg-semi-automatic-top-loading-washing-machine-with-3-wash-programs-jsp70s-2024l-burgundy-digital-o492664389-p591009223-0-202209212202.jpeg",
+      "id": "11",
+      "name": "Sansui 7 Kg Semi Automatic Top Loading Washing Machine with 3 Wash Programs, JSP70S-2024L, Burgundy",
+      "discount_price": "7490.00",
+      "original_price": "12490.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/491997699/apple-iphone-13-128-gb-midnight-black-digital-o491997699-p590798548-0-202208221207.jpeg",
+      "id": "12",
+      "name": "Apple iPhone 13 128 GB, Midnight (Black)",
+      "discount_price": "63900.00",
+      "original_price": "69900.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492850894/motorola-moto-g42-64gb-4gb-ram-atlantic-green-mobile-phone-digital-o492850894-p592617134-0-202207151324.jpeg",
+      "id": "13",
+      "name": "Motorola Moto G42 64GB, 4GB RAM, Atlantic Green, Mobile Phone",
+      "discount_price": "10999.00",
+      "original_price": "16999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492849898/realme-c31-64-gb-4-gb-ram-light-silver-mobile-phone-digital-o492849898-p594464464-0-202210140230.jpeg",
+      "id": "14",
+      "name": "Realme C31 64 GB, 4 GB RAM, Light Silver, Mobile Phone",
+      "discount_price": "8999.00",
+      "original_price": "11990.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-0-202208022043.jpeg",
+      "id": "15",
+      "name": "OnePlus 9 128 GB, 8 GB RAM, Arctic Sky, Mobile Phone",
+      "discount_price": "33999.00",
+      "original_price": "49999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492664539/lg-190-litres-3-star-direct-cool-single-door-refrigerator-scarlet-euphoria-gl-b201ased-digital-o492664539-p591278227-0-202205120850.jpeg",
+      "id": "16",
+      "name": "LG 190 litres 3 Star Direct Cool Single Door Refrigerator, Scarlet Euphoria, GL-B201ASED",
+      "discount_price": "16490.00",
+      "original_price": "21199.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492664434/lg-7-kg-top-load-semi-automatic-washing-machine-p7020ngaz-digital-o492664434-p591053951-0-202202221325.jpeg",
+      "id": "17",
+      "name": "LG 7 Kg Top Load Semi-Automatic Washing Machine, P7020NGAZ",
+      "discount_price": "11190.00",
+      "original_price": "16090.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/581026857/hisense-1-5-ton-4-star-4-in-1-convertible-intelligent-inverter-split-ac-as-18tc4ram0-100-percent-copper-pm-2-5-filter-3-in-1-vitacarb-filter-eco-friendly-r-32-gas-digital-o581026857-p591194264-0-202204082038.jpeg",
+      "id": "18",
+      "name": "Hisense 1.5 Ton 4 Star, 4 in 1 Convertible Intelligent Inverter Split AC, AS-18TC4RAM0� (100 Percent Copper, PM 2.5 Filter + 3 in 1 Vitacarb Filter, Eco Friendly R-32 gas)",
+      "discount_price": "32990.00",
+      "original_price": "47990.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/493178812/redmi-note-11-se-64-gb-6-gb-ram-cosmic-white-mobile-phone-digital-o493178812-p594779651-0-202210221329.jpeg",
+      "id": "19",
+      "name": "Redmi Note 11 SE 64 GB, 6 GB RAM, Cosmic White Mobile Phone",
+      "discount_price": "11499.00",
+      "original_price": "16999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492664336/pigeon-zest-750-watt-mixer-grinder-with-3-jars-turquoise-blue-digital-o492664336-p591009218-0-202201182054.jpeg",
+      "id": "20",
+      "name": "Pigeon Zest 750 Watt Mixer Grinder with 3 Jars, Turquoise Blue",
+      "discount_price": "2009.00",
+      "original_price": "4295.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvz7pmptg6/ck-india-medium-size-hot-hair-dryer-1500-watts-2888-product-images-orvz7pmptg6-p592411320-0-202212131622.jpg",
+      "id": "21",
+      "name": "CK INDIA MEDIUM SIZE HOT HAIR DRYER 1500 WATTS 2888",
+      "discount_price": "389.00",
+      "original_price": "999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rv17fbrzra/healthgenie-digital-weight-machine-for-body-weight-thick-tempered-glass-lcd-display-with-3-years-warranty-copper-ring-product-images-orv17fbrzra-p594218588-0-202210020311.jpg",
+      "id": "22",
+      "name": "Healthgenie Digital Weight Machine for Body Weight Thick Tempered Glass LCD Display With 3 Years Warranty ( Copper Ring)",
+      "discount_price": "589.00",
+      "original_price": "1199.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvkc9xvar8/txor-verve-t500-smart-watch-fitness-band-44mm-black-color-touch-screen-for-android-and-ios-black-strap-and-wireless-charger-product-images-orvkc9xvar8-p591301925-0-202205140303.jpg",
+      "id": "23",
+      "name": "TXOR VERVE T500, Smart Watch Fitness Band 44mm Black Color Touch Screen for ANDROID and IOS, Black Strap with Bluetooth Calling",
+      "discount_price": "1149.00",
+      "original_price": "2299.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492850516/noise-colorfit-icon-plus-smart-watch-jet-black-digital-o492850516-p592069089-0-202208181822.jpeg",
+      "id": "24",
+      "name": "Noise Colorfit Icon Plus Smart Watch with Bluetooth Calling, 1.69 inch HD Display, Multi Sports Modes, IP67 Waterproof, 100+ Cloud Based Watch faces, Voice Assistance & Weather Report, JET BLACK",
+      "discount_price": "1999.00",
+      "original_price": "5999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492403640/fire-boltt-ninja-dial-smartwatch-black-digital-o492403640-p592077372-0-202206142238.jpeg",
+      "id": "25",
+      "name": "Fire Boltt Ninja Dial Smartwatch, 4.30 cm (1.69 inch) , Bluetooth calling watch, Built In Speaker For Songs, Camera Control, HD Calling through the built in Mic, Built In Voice Assistant, 60 Sports Mode, IP68 Water Resistant, BLACK",
+      "discount_price": "1899.00",
+      "original_price": "9999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvjqmze55q/ankirant-wireless-bluetooth-neckband-earphones-200mh-longest-battry-48hrs-talk-time-headphones-black-product-images-orvjqmze55q-p594404620-0-202210111454.jpg",
+      "id": "26",
+      "name": "Ankirant Wireless Bluetooth Neckband Earphones 200Mh Longest Battry 48hrs Talk Time Headphones (Black)",
+      "discount_price": "1499.00",
+      "original_price": "1999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvhxcydxl6/activa-3-ltr-hotmak-instant-3-kva-anti-rust-coating-0-75-mm-ss-tank-geyser-with-full-abs-type-body-with-5-years-warranty-product-images-orvhxcydxl6-p594572235-0-202210180801.jpg",
+      "id": "27",
+      "name": "ACTIVA 3 LTR Hotmak Instant 3 Kva Anti Rust Coating 0.75 mm SS Tank Geyser with Full Abs Type Body with 5 Years Warranty",
+      "discount_price": "1899.00",
+      "original_price": "3790.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492579407/iffalcon-126-cm-50-inch-ultra-hd-4k-led-smart-tv-u61-series-50u61-digital-o492579407-p590972362-0-202201010352.jpeg",
+      "id": "28",
+      "name": "IFFALCON 126 cm (50 inch) Ultra HD (4K) LED Smart TV, U61 Series 50U61",
+      "discount_price": "22999.00",
+      "original_price": "58990.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/491895139/ptron-fusion-10-watts-portable-bluetooth-wireless-speaker-with-aux-tf-card-usb-ports-black-digital-o491895139-p593273602-0-202207310946.jpeg",
+      "id": "29",
+      "name": "PTron Fusion 10 Watts Portable Bluetooth Wireless Speaker with AUX, TF Card, USB Ports (Black)",
+      "discount_price": "999.00",
+      "original_price": "3000.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492912671/oneplus-nord-buds-wireless-earbuds-with-4-mics-and-ai-noise-reduction-white-marble-digital-o492912671-p591604014-0-202205260848.jpeg",
+      "id": "30",
+      "name": "OnePlus Nord Buds Wireless Earbuds with 4 Mics and AI Noise Reduction, White Marble",
+      "discount_price": "2799.00",
+      "original_price": "2999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492850685/hp-14s-ef1002tu-laptop-11th-gen-intel-core-i3-1115g4-8-gb-512-gb-ssd-intel-uhd-graphics-windows-11-mso-full-hd-35-6-cm-14-inch-digital-o492850685-p592617111-0-202207151324.jpeg",
+      "id": "31",
+      "name": "HP 14s-ef1002TU Laptop (11th Gen-Intel Core i3-1115G4/8 GB/512 GB SSD/Intel UHD Graphics/Windows 11/MSO/Full HD), 35.6 cm (14 inch)",
+      "discount_price": "45749.00",
+      "original_price": "52899.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvsbbojacb/warmex-steam-glide-1200w-steam-iron-with-180ml-water-tank-capacity-spray-steam-iron-pink-product-images-orvsbbojacb-p594234782-0-202210031636.jpg",
+      "id": "32",
+      "name": "Warmex Steam Glide 1200W Steam Iron with 180ml water tank capacity| Spray/Steam Iron| , Pink",
+      "discount_price": "799.00",
+      "original_price": "1828.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492579287/kodak-108-cm-43-inch-ultra-hd-4k-led-smart-led-tv-capro-series-43capro5022-digital-o492579287-p590950547-0-202112181009.jpeg",
+      "id": "33",
+      "name": "Kodak 108 cm (43 inch) Ultra HD (4K) LED Smart LED TV, CAPRO Series 43CAPRO5022",
+      "discount_price": "27999.00",
+      "original_price": "39999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492849813/dell-inspiron-3511-laptop-11th-gen-intel-i3-1115g4-8gb-512gb-ssd-integrated-graphics-windows-11-mso-fhd-39-6-cm-15-6-inch-digital-o492849813-p591642293-0-202205272136.jpeg",
+      "id": "34",
+      "name": "Dell Inspiron 3511 Laptop (11th Gen Intel i3-1115G4/8GB/512GB SSD/Integrated Graphics/Windows 11/MSO/FHD), 39.6 cm (15.6 inch)",
+      "discount_price": "45500.00",
+      "original_price": "50644.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492849723/hp-14s-dq3032tu-thin-light-laptop-intel-celeron-n4500-8gb-256gb-ssd-intel-uhd-graphics-windows-11-mso-hd-35-56-cm-14-inch-digital-o492849723-p591217881-0-202204020148.jpeg",
+      "id": "35",
+      "name": "HP 14s-dq3032tu Thin & Light Laptop (Intel Celeron N4500/8GB/256GB SSD/Intel UHD Graphics/Windows 11/MSO/HD), 35.56 cm (14 inch)",
+      "discount_price": "26499.00",
+      "original_price": "37006.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvyjhir3om/i-kall-n7-black-wi-fi-only-tablet-7-inch-2-gb-ram-16-gb-rom-product-images-orvyjhir3om-p592455831-0-202207090226.jpg",
+      "id": "36",
+      "name": "I Kall N7 Black Wi-Fi Only Tablet - 7 Inch, 2 GB RAM, 16 GB ROM",
+      "discount_price": "3499.00",
+      "original_price": "5999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/491903026/lifelong-llpcm07-men-s-beard-trimmer-digital-o491903026-p590042099-0-202010110133.jpeg",
+      "id": "37",
+      "name": "Lifelong LLPCM07 Men's Beard Trimmer",
+      "discount_price": "599.00",
+      "original_price": "1800.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492520217/aiwa-sb-x30-wireless-portable-bluetooth-speaker-with-mic-digital-o492520217-p590820526-0-202110111726.jpeg",
+      "id": "38",
+      "name": "AIWA SB-X30 Wireless Portable Bluetooth Speaker with Mic",
+      "discount_price": "999.00",
+      "original_price": "2799.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/493177908/apple-watch-series-8-gps-45-mm-midnight-aluminium-case-with-midnight-sport-band-regular-digital-o493177908-p593692424-0-202209121744.jpeg",
+      "id": "39",
+      "name": "Apple Watch Series 8 GPS 45 mm Midnight Aluminium Case with Midnight Sport Band - Regular",
+      "discount_price": "46455.00",
+      "original_price": "48900.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvwcvy6l4a/zunvolt-ambrus-room-heater-2000-watt-for-winters-and-summers-product-images-orvwcvy6l4a-p594307068-0-202211291211.jpg",
+      "id": "40",
+      "name": "zunvolt Ambrus room heater 2000-watt for winters and summers",
+      "discount_price": "749.00",
+      "original_price": "1999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvaev3vaut/wings-x-fire-40-hours-playtime-bluetooth-earbud-for-gaming-product-images-orvaev3vaut-p594702249-0-202210202042.jpg",
+      "id": "41",
+      "name": "Wings X-Fire 40 Hours Playtime,Bluetooth Earbud for Gaming",
+      "discount_price": "1599.00",
+      "original_price": "3999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/491891614/kent-zww-series-grand-9-litres-ro-uv-uf-tds-water-purifier-digital-o491891614-p590037576-0-202009260515.jpeg",
+      "id": "42",
+      "name": "Kent 9 Litres RO+UV+UF+TDS Water Purifier, ZWW Series Grand+ with Zero Water Wastage and Auto-Flushing System",
+      "discount_price": "18690.00",
+      "original_price": "20500.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rv0vnpzzta/swap-n-snap-mobile-phone-ring-holder-metal-finger-selfie-grip-princess-design-panda-peep-silver-product-images-orv0vnpzzta-p593156155-0-202207271512.jpg",
+      "id": "43",
+      "name": "Swap-n-Snap Mobile Phone Ring Holder Metal Finger Selfie Grip -Princess Design-(Panda Peep, Silver)",
+      "discount_price": "299.00",
+      "original_price": "399.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492573925/lenovo-93in-ideapad-3-laptop-10th-gen-intel-core-i3-10110u-8gb-256gb-sdd-windows-11-mso-full-hd-39-62-cm-15-6-inch-digital-o492573925-p590945029-0-202206242008.jpeg",
+      "id": "44",
+      "name": "Lenovo 93IN IdeaPad 3 Laptop (10th Gen Intel Core i3-10110U/8GB/256GB SDD/ /Windows 11/MSO/Full HD), 39.62 cm (15.6 inch)",
+      "discount_price": "31749.00",
+      "original_price": "56590.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/493620494/orient-25-litre-ecoswift-storage-water-heater-ws2502m-wb-digital-o493620494-p593413433-0-202208181912.jpeg",
+      "id": "45",
+      "name": "Orient 25 Litre EcoSwift Storage Water Heater, WS2502M-WB",
+      "discount_price": "5949.00",
+      "original_price": "9990.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/493177937/apple-watch-ultra-gps-cellular-49-mm-titanium-case-with-orange-alpine-loop-medium-digital-o493177937-p593692497-0-202209121744.jpeg",
+      "id": "46",
+      "name": "Apple Watch Ultra GPS + Cellular - 49 mm Titanium Case with Orange Alpine Loop -�Medium",
+      "discount_price": "85405.00",
+      "original_price": "89900.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/491315416/hp-64-gb-v236w-pen-drive-digital-o491315416-p590038636-0-202009260602.jpeg",
+      "id": "47",
+      "name": "HP 64 GB Metal Body USB 2.0 Flash Drive, v236w",
+      "discount_price": "468.00",
+      "original_price": "1500.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rv3l5dq5rh/portronics-harmonics-twins-s3-smart-tws-bluetooth-5-2-earbuds-with-20-hrs-playtime-8-mm-drivers-lightweight-earbuds-black-product-images-orv3l5dq5rh-p596136387-0-202212071421.jpg",
+      "id": "48",
+      "name": "Portronics Harmonics Twins S3 Smart TWS Bluetooth 5.2 Earbuds with 20 Hrs Playtime, 8 MM Drivers, Lightweight Earbuds(Black)",
+      "discount_price": "699.00",
+      "original_price": "1999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rv08g02qwt/kodak-t215-tripod-product-images-orv08g02qwt-p595496030-0-202211220807.jpg",
+      "id": "49",
+      "name": "Kodak T215 Tripod",
+      "discount_price": "2899.00",
+      "original_price": "2999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rv5fzvunls/lifelong-10000-mah-li-polymer-ultra-compact-power-bank-10-watts-fast-charging-with-digital-display-and-dual-ports-for-smartphones-smart-watches-neckbands-other-devices-black-product-images-orv5fzvunls-p595246720-0-202211120207.jpg",
+      "id": "50",
+      "name": "Lifelong 10000 mAh Li Polymer Ultra Compact Power Bank 10 Watts Fast Charging with Digital Display and Dual Ports for Smartphones, Smart Watches, Neckbands & Other Devices (Black)",
+      "discount_price": "499.00",
+      "original_price": "1800.00"
+    }
+  ],
+  "fruits": [
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/599991469/3-dates-2-go-medjoul-king-solomon-premium-imported-3-pcs-product-images-o599991469-p592846374-0-202209160907.jpg",
+      "id": "1",
+      "name": "3 Dates 2 Go Medjoul King Solomon Premium Imported 3 pcs",
+      "original_price": "140.00",
+      "discount_price": "119.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-0-202209070708.jpg",
+      "id": "2",
+      "name": "Sweet Lime Premium Indian 4 Pc (Approx 0.80 kg - 1.10 Kg)",
+      "original_price": "140.00",
+      "discount_price": "129.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/599990134/orange-nagpur-premium-indian-4-pcs-approx-720-g-950-g-product-images-o599990134-p593160807-0-202209150009.jpg",
+      "id": "3",
+      "name": "Orange Nagpur Premium Indian 4 Pc (Approx 650 g - 880 g)",
+      "original_price": "160.00",
+      "discount_price": "99.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/599990419/persimmon-premium-indian-1-pc-approx-175-g-225-g-product-images-o599990419-p593160822-0-202209211959.jpg",
+      "id": "4",
+      "name": "Persimmon Premium Indian 1 Pc (Approx 150 g - 200 g)",
+      "original_price": "139.00",
+      "discount_price": "129.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/599991062/custard-apple-golden-premium-indian-1-pc-approx-300-g-400-g-product-images-o599991062-p593160824-0-202209271839.jpg",
+      "id": "5",
+      "name": "Custard Apple Golden Premium Indian 1 Pc (Approx 300 g - 400 g)",
+      "original_price": "120.00",
+      "discount_price": "79.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/599990932/blueberry-premium-imported-pack-125-g-product-images-o599990932-p590860270-0-202207282047.jpg",
+      "id": "6",
+      "name": "Blueberry Premium Imported Pack 125 g",
+      "original_price": "300.00",
+      "discount_price": "179.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/599991295/apple-royal-gala-new-zealand-premium-imported-4-pc-approx-750-g-860-g-product-images-o599991295-p591211900-0-202207282046.jpg",
+      "id": "7",
+      "name": "Apple Royal Gala New Zealand Premium Imported 4 pc (Approx 660 g - 780 g)",
+      "original_price": "350.00",
+      "discount_price": "229.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/599990933/blueberry-premium-imported-pack-250-g-product-images-o599990933-p590860345-0-202207282047.jpg",
+      "id": "8",
+      "name": "Blueberry Premium Imported Pack 250 g",
+      "original_price": "600.00",
+      "discount_price": "349.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/599991100/dates-oriental-king-solomon-premium-imported-pack-500-g-product-images-o599991100-p591021568-0-202207282047.jpg",
+      "id": "9",
+      "name": "Dates Oriental King Solomon Premium Imported Pack 500 g",
+      "original_price": "475.00",
+      "discount_price": "329.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/599991444/curate-s-signature-fruit-box-premium-imported-1-pack-product-images-o599991444-p591778568-0-202209231748.jpg",
+      "id": "10",
+      "name": "Curate's Signature Fruit Box Premium Imported 1 Pack",
+      "original_price": "1,199.00",
+      "discount_price": "999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/599991443/curate-s-bliss-fruit-box-premium-imported-1-pack-product-images-o599991443-p591778567-0-202209231748.jpg",
+      "id": "11",
+      "name": "Curate's Bliss Fruit Box Premium Imported 1 Pack",
+      "original_price": "850.00",
+      "discount_price": "799.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/599991442/curate-s-delight-fruit-box-premium-imported-1-pack-product-images-o599991442-p591778566-0-202209231748.jpg",
+      "id": "12",
+      "name": "Curate's Delight Fruit Box Premium Imported 1 Pack",
+      "original_price": "700.00",
+      "discount_price": "599.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/599991440/curate-s-classic-fruit-box-premium-1-pack-product-images-o599991440-p591778564-0-202209231748.jpg",
+      "id": "13",
+      "name": "Curate's Classic Fruit Box Premium 1 Pack",
+      "original_price": "350.00",
+      "discount_price": "299.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/599990956/blueberry-premium-imported-pack-500-g-product-images-o599990956-p590860406-0-202207282047.jpg",
+      "id": "14",
+      "name": "Blueberry Premium Imported Pack 500 g",
+      "original_price": "1,200.00",
+      "discount_price": "689.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/599991374/pear-forelle-premium-imported-4-pc-approx-720-g-880-g-product-images-o599991374-p591238252-0-202207282046.jpg",
+      "id": "15",
+      "name": "Pear Forelle Premium Imported 4 Pc (Approx 650 g - 800 g)",
+      "original_price": "240.00",
+      "discount_price": "219.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/599991344/pear-packham-premium-imported-6-pc-approx-1-10-kg-1-30-kg-product-images-o599991344-p591226026-0-202207282046.jpg",
+      "id": "16",
+      "name": "Pear Packham Premium Imported 6 pc (Approx 1.10 kg- 1.30 kg)",
+      "original_price": "300.00",
+      "discount_price": "259.00"
+    },
+    {
+      "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+      "id": "17",
+      "name": "Pomegranate Kesar Medium Premium Indian 4 pc (Approx 1.20 kg - 1.50 kg)",
+      "original_price": "520.00",
+      "discount_price": "349.00"
+    },
+    {
+      "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+      "id": "18",
+      "name": "Apple Pink Lady Premium Imported 4 pc (Approx 660 g - 780 g)",
+      "original_price": "280.00",
+      "discount_price": "209.00"
+    },
+    {
+      "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+      "id": "19",
+      "name": "Apple Fuji Premium Imported 4 Pc (Approx 660 g - 780 g)",
+      "original_price": "280.00",
+      "discount_price": "249.00"
+    },
+    {
+      "image": "https://www.jiomart.com/assets/global/jiomart-default-image-240x285.png",
+      "id": "20",
+      "name": "Apple Jazz Premium Imported 4 Pc (Approx 600 g - 720 g)",
+      "original_price": "360.00",
+      "discount_price": "349.00"
+    }
+  ],
+  "home": [
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvlcwb8ugn/faverito-brown-round-plastic-storage-container-gift-set-set-of-12-product-images-orvlcwb8ugn-p590443255-0-202111090326.jpg",
+      "id": "1",
+      "name": "Faverito Brown Round Plastic Storage Container Gift Set (Set of 12)",
+      "discount_price": "299.00",
+      "original_price": "1499.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvlfzar7zp/kitchen-krafts-round-stainless-steel-induction-dutch-oven-set-of-2-with-2-glass-lids-1-1-5-l-product-images-orvlfzar7zp-p590873319-0-202205271129.jpg",
+      "id": "2",
+      "name": "Kitchen Krafts Round Stainless Steel Induction Dutch Oven Set of 2 with 2 Glass Lids (1+ 1.5) L",
+      "discount_price": "697.00",
+      "original_price": "1499.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvlyihdbq7/ebun-stainless-steel-laser-floral-design-double-wall-tea-coffee-cup-120-ml-4-pcs-product-images-orvlyihdbq7-p590824425-0-202204111820.jpg",
+      "id": "3",
+      "name": "Ebun Stainless Steel Laser Floral Design Double Wall Tea Coffee Cup 120 ml (4 pcs)",
+      "discount_price": "850.00",
+      "original_price": "1250.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvookcy0dx/kreyam-s-multipurpose-ice-tong-25-cm-ice-tongs-pack-of-1-product-images-orvookcy0dx-p591551691-0-202205240255.jpg",
+      "id": "4",
+      "name": "Kreyam's multipurpose ice tong 25 cm Ice Tongs (Pack of 1)",
+      "discount_price": "249.00",
+      "original_price": "999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvpb94maks/cotton-bolls-textiles-cotton-hand-towel-400-gsm-35x50-cm-multicolor-set-of-6-product-images-orvpb94maks-p590975174-0-202201011935.png",
+      "id": "5",
+      "name": "Cotton Bolls Textiles Cotton Hand Towel - 400 GSM 35x50 cm (Multicolor,Set of 6)",
+      "discount_price": "299.00",
+      "original_price": "799.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvptb3vkj7/j9-red-designer-stainless-steel-microwave-serve-and-store-set-600-ml-800-ml-1300-ml-set-of-3-product-images-orvptb3vkj7-p591491650-0-202210071755.jpg",
+      "id": "6",
+      "name": "J9 RED Designer Stainless Steel Microwave Serve and Store Set 600 ml, 800 ml & 1300 ml (Set of 3)",
+      "discount_price": "329.00",
+      "original_price": "999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvq9eyzprp/clik-n-seal-bpa-free-plastic-air-tight-kitchen-storage-container-jars-black-cap-set-of-2-each-750-ml-product-images-orvq9eyzprp-p591019760-0-202201261302.jpg",
+      "id": "7",
+      "name": "Clik n Seal BPA Free Plastic Air Tight Kitchen Storage Container Jars Black Cap Set of 2 Each 750 ML",
+      "discount_price": "247.00",
+      "original_price": "520.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvqw9gwcwx/leadder-kitchenware-plastic-4-in-1-storage-air-tight-container-2500-ml-pack-of-1-product-images-orvqw9gwcwx-p590851543-0-202211021400.jpg",
+      "id": "8",
+      "name": "Leadder Kitchenware Plastic 4 in 1 Storage Air Tight Container 2500 ml ( Pack Of 1 )",
+      "discount_price": "229.00",
+      "original_price": "799.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvrf1yjkky/pumpum-grey-cotton-single-bed-mattress-72-inch-x-36-inch-product-images-orvrf1yjkky-p590948199-0-202112152107.jpg",
+      "id": "9",
+      "name": "PumPum Grey Cotton Single Bed Mattress 72 inch x 36 inch",
+      "discount_price": "425.00",
+      "original_price": "999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvrnouy7lx/user-choise-kitchenware-plastic-4-section-storage-air-tight-square-container-2500-ml-pack-of-2-product-images-orvrnouy7lx-p590834822-0-202211020716.jpg",
+      "id": "10",
+      "name": "User Choise Kitchenware Plastic 4 Section Storage Air Tight Square Container 2500 ml ( Pack Of 2)",
+      "discount_price": "349.00",
+      "original_price": "1599.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvru1qmc2g/uniqchoice-yellowcolor-100-cotton-jaipuri-traditional-double-bedsheet-with-2-pillow-cover-215-x-235-cm-yellowjaalhathi_d-product-images-orvru1qmc2g-p591084780-0-202202250450.jpg",
+      "id": "11",
+      "name": "UniqChoice YellowColor 100% Cotton Jaipuri Traditional Double Bedsheet With 2 Pillow Cover 215 x 235 cm(YellowJaalHathi_D)",
+      "discount_price": "429.00",
+      "original_price": "1599.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvtmcqkkds/omega-stainless-steel-copper-bottom-cookware-set-big-3pcs-tope-1-8l-saucepan-1-4l-kadai-2l-product-images-orvtmcqkkds-p591319124-0-202209142202.jpg",
+      "id": "12",
+      "name": "Omega Stainless Steel Copper Bottom Cookware Set Big - 3Pcs (Tope- 1.8L, Saucepan- 1.4L, Kadai- 2L)",
+      "discount_price": "899.00",
+      "original_price": "2230.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvuqvpqh84/clik-n-seal-bpa-free-plastic-air-tight-kitchen-storage-container-jars-green-cap-set-of-2-each-750-ml-product-images-orvuqvpqh84-p591019758-0-202201261302.jpg",
+      "id": "13",
+      "name": "Clik n Seal BPA Free Plastic Air Tight Kitchen Storage Container Jars Green Cap Set of 2 Each 750 ML",
+      "discount_price": "260.00",
+      "original_price": "520.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvurmiwla6/hem-floral-collection-incense-sticks-combo-pack-of-6-20-pcs-each-product-images-orvurmiwla6-p591078055-0-202202242320.jpg",
+      "id": "14",
+      "name": "HEM Floral Collection Incense sticks combo Pack of 6 (20 pcs Each)",
+      "discount_price": "239.00",
+      "original_price": "299.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvuvsb8rds/webelkart-designer-stones-lord-ganesha-plastic-wall-clock-for-home-living-room-bedroom-kitchen-panchmukhi-ganesha-product-images-orvuvsb8rds-p591265396-0-202205100923.jpg",
+      "id": "15",
+      "name": "Webelkart Designer Stones Lord Ganesha Plastic Wall Clock for Home/Living Room/Bedroom/Kitchen (Panchmukhi Ganesha)",
+      "discount_price": "313.00",
+      "original_price": "3999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvw78hnznx/superwipe-reusable-and-washable-multi-purpose-kitchen-swipe-rolls-80-pulls-per-roll-pack-of-2-product-images-orvw78hnznx-p591723017-0-202205300530.jpg",
+      "id": "16",
+      "name": "Superwipe Reusable and Washable Multi-Purpose Kitchen Swipe Rolls (80 Pulls Per Roll) (Pack of 2)",
+      "discount_price": "289.00",
+      "original_price": "380.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvw9f9rg8z/dnd-nanosol-flying-insect-killer-mosquito-repellent-aerosol-spray-instant-kill-action-12-hrs-protection-60ml-product-images-orvw9f9rg8z-p591127268-0-202203221006.jpg",
+      "id": "17",
+      "name": "DND Nanosol Flying Insect Killer | Mosquito Repellent Aerosol Spray | Instant Kill Action | 12 hrs Protection | 60ml",
+      "discount_price": "165.00",
+      "original_price": "229.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvwhadutpq/nirlon-non-stick-aluminium-concave-tawa-27-5cm-product-images-orvwhadutpq-p590362873-0-202107232150.jpg",
+      "id": "18",
+      "name": "Nirlon Red Aluminium Non-Stick Concave Tawa 26 cm",
+      "discount_price": "419.00",
+      "original_price": "4930.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvxnptn8kv/dynore-stainless-steel-6-pcs-apple-cups-product-images-orvxnptn8kv-p590628581-0-202108311953.png",
+      "id": "19",
+      "name": "Dynore Stainless Steel Double Wall Apple Cup 100 ml (Set of 6)",
+      "discount_price": "589.00",
+      "original_price": "975.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvxpuaj7ff/shalimar-premium-oxo-biodegradable-garbage-bags-19-x-21-inches-medium-120-bags-4-rolls-dustbin-bag-trash-bag-black-color-product-images-orvxpuaj7ff-p591879992-0-202206030745.jpg",
+      "id": "20",
+      "name": "Shalimar Premium OXO - Biodegradable Garbage Bags 19 X 21 Inches (Medium) 120 Bags (4 rolls) Dustbin Bag/Trash Bag - Black Color",
+      "discount_price": "310.00",
+      "original_price": "344.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvxyeylepg/syska-standard-b22-white-led-bulb-9w-pack-of-3-product-images-orvxyeylepg-p590960129-0-202212141835.png",
+      "id": "21",
+      "name": "Syska Standard B22 White LED Bulb 9W Pack of 3",
+      "discount_price": "289.00",
+      "original_price": "1077.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvzcuyf7xf/essential-world-alloy-steel-folding-chair-purple-product-images-orvzcuyf7xf-p592350085-0-202207041611.jpg",
+      "id": "22",
+      "name": "Essential World Alloy Steel Folding Chair (Purple)",
+      "discount_price": "1299.00",
+      "original_price": "2999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvznx0r28k/rangoli-super-comfy-bright-blue-hand-towel-38-cm-x-58-cm-set-of-2-product-images-orvznx0r28k-p590824753-0-202110141745.jpg",
+      "id": "23",
+      "name": "Rangoli Super Comfy Bright Blue Hand Towel 38 cm x 58 cm (Set of 2)",
+      "discount_price": "179.00",
+      "original_price": "490.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rv305sfnbq/soulful-creations-bedsheet-with-2-pillow-covers-color-multi-90-x90-product-images-orv305sfnbq-p591264699-0-202210101120.jpg",
+      "id": "24",
+      "name": "Soulful Creations Bedsheet With 2 Pillow Covers,color-MULTI-(90 X90)",
+      "discount_price": "325.00",
+      "original_price": "999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rv3w7ko2yp/homefab-india-144-tc-microfiber-single-bedsheet-with-1-pillow-cover-aqua-floral-product-images-orv3w7ko2yp-p592355884-0-202207042047.jpg",
+      "id": "25",
+      "name": "Homefab India 144 TC Microfiber Single Bedsheet with 1 Pillow Cover - Aqua, Floral",
+      "discount_price": "269.00",
+      "original_price": "599.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rv3zi0jnlo/fashion-bizz-gold-brass-table-diya-product-images-orv3zi0jnlo-p591064855-0-202202241635.jpg",
+      "id": "26",
+      "name": "Fashion Bizz Gold Brass Table Diya",
+      "discount_price": "270.00",
+      "original_price": "1999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rv5au4ib2s/fashion-bizz-gold-brass-pooja-bell-product-images-orv5au4ib2s-p591064658-0-202202241632.jpg",
+      "id": "27",
+      "name": "Fashion Bizz Gold Brass Pooja Bell",
+      "discount_price": "270.00",
+      "original_price": "1999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rv5tfln0rq/la-elite-polycotton-printed-bedsheet-for-double-bed-sheet-size-88-inches-x-88-inches-with-2-pillow-covers-product-images-orv5tfln0rq-p591752621-0-202212152115.jpg",
+      "id": "28",
+      "name": "La elite polycotton printed bedsheet for double bed sheet size 88 inches x 88 inches with 2 pillow covers",
+      "discount_price": "298.00",
+      "original_price": "1399.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rv6ojk9cla/fashion-bizz-gold-brass-pooja-bell-product-images-orv6ojk9cla-p591173878-0-202203010334.jpg",
+      "id": "29",
+      "name": "Fashion Bizz Gold Brass Pooja Bell",
+      "discount_price": "290.00",
+      "original_price": "1999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rv8bhfdget/fashion-bizz-gold-brass-table-diya-product-images-orv8bhfdget-p591063070-0-202202241546.jpg",
+      "id": "30",
+      "name": "Fashion Bizz Gold Brass Table Diya",
+      "discount_price": "522.00",
+      "original_price": "1999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rv8gdydfvy/fashion-bizz-gold-brass-pooja-bell-product-images-orv8gdydfvy-p591173984-0-202203010349.jpg",
+      "id": "31",
+      "name": "Fashion Bizz Gold Brass Pooja Bell",
+      "discount_price": "290.00",
+      "original_price": "1999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rv8rcsfgjq/uniqchoice-c-greencolor-100-cotton-single-bedsheet-without-pillow-cover150-x-220cm-single_bindiya_c-green-product-images-orv8rcsfgjq-p590978002-0-202201022116.jpg",
+      "id": "32",
+      "name": "UniqChoice C-GreenColor 100% Cotton Single Bedsheet Without Pillow Cover150 x 220cm(Single_Bindiya_C-Green)",
+      "discount_price": "299.00",
+      "original_price": "999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rv9ubm5vvt/fashion-bizz-gold-aluminium-puja-ghar-jhula-showpiece-product-images-orv9ubm5vvt-p591063113-0-202202241547.jpg",
+      "id": "33",
+      "name": "Fashion Bizz Gold Aluminium Puja Ghar Jhula showpiece",
+      "discount_price": "410.00",
+      "original_price": "1999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rva7moefyd/fashion-bizz-gold-brass-pooja-bell-product-images-orva7moefyd-p591064518-0-202202241630.jpg",
+      "id": "34",
+      "name": "Fashion Bizz Gold Brass Pooja Bell",
+      "discount_price": "420.00",
+      "original_price": "1999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvaglmfzxd/fashion-bizz-gold-aluminium-laxmi-ganesh-diya-product-images-orvaglmfzxd-p591063274-0-202202241549.jpg",
+      "id": "35",
+      "name": "Fashion Bizz Gold Aluminium Laxmi Ganesh Diya",
+      "discount_price": "280.00",
+      "original_price": "1999.00"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/rvapcwwnjc/homefab-india-144-tc-microfiber-single-bedsheet-with-1-pillow-cover-black-floral-product-images-orvapcwwnjc-p592357126-0-202207042231.jpg",
+      "id": "36",
+      "name": "Homefab India 144 TC Microfiber Single Bedsheet with 1 Pillow Cover - Black, Floral",
+      "discount_price": "269.00",
+      "original_price": "599.00"
+    }
+  ],
+  "groceries": [
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/590003515/onion-1-kg-product-images-o590003515-p590003515-0-202203170724.jpg",
+      "name": "Onion 1 kg",
+      "id": "1",
+      "original_price": "24.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/590001266/sweet-corn-1-pc-approx-250-g-450-g-product-images-o590001266-p590001266-0-202203170359.jpg",
+      "name": "Sweet Corn 1 pc (Approx 250 g - 450 g)",
+      "id": "2",
+      "original_price": "15.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/590000086/coconut-1-pc-approx-350-g-600-g-product-images-o590000086-p590000086-0-202203170206.jpg",
+      "name": "Coconut 1 pc (Approx 350 g - 600 g)",
+      "id": "3",
+      "original_price": "28.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/590003517/tomato-1-kg-product-images-o590003517-p590003517-0-202203170629.jpg",
+      "name": "Tomato 1 kg",
+      "id": "4",
+      "original_price": "15.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/590003564/tender-coconut-cling-wrapped-1-pc-approx-900-g-1300-g-product-images-o590003564-p590003564-0-202203151146.jpg",
+      "name": "Tender Coconut Cling Wrapped (1 pc) (Approx 900 g - 1300 g)",
+      "id": "5",
+      "original_price": "45.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/590003516/potato-per-kg-product-images-o590003516-p590003516-0-202203170642.jpg",
+      "name": "Potato per kg",
+      "id": "6",
+      "original_price": "33.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/590000070/pineapple-queen-1-pc-approx-700-g-1200-g-product-images-o590000070-p590000070-0-202203170357.jpg",
+      "name": "Pineapple Queen 1 pc (Approx 700 g - 1200 g)",
+      "id": "7",
+      "original_price": "62.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/590000059/banana-red-box-approx-800-g-1000-g-product-images-o590000059-p590034084-0-202203170221.jpg",
+      "name": "Banana Red (Box) (Approx 800 g - 1000 g)",
+      "id": "8",
+      "original_price": "129.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/590002136/onion-5-kg-pack-product-images-o590002136-p590002136-0-202203141906.jpg",
+      "name": "Onion 5 kg (Pack)",
+      "id": "9",
+      "original_price": "110.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/590000492/kinoo-orange-1-kg-product-images-o590000492-p590085177-0-202203170719.jpg",
+      "name": "Kinoo Orange 1 kg",
+      "id": "10",
+      "original_price": "79.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/590000097/tender-coconut-1-pc-approx-800-g-1500-g-product-images-o590000097-p590000097-0-202203170923.jpg",
+      "name": "Tender Coconut 1 pc (Approx 800 g - 1500 g)",
+      "id": "11",
+      "original_price": "42.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/590000174/lauki-bottle-gourd-1-kg-product-images-o590000174-p590000174-0-202203170512.jpg",
+      "name": "Lauki (Bottle Gourd) 1 kg",
+      "id": "12",
+      "original_price": "31.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/590000448/mosambi-1-kg-product-images-o590000448-p590000448-0-202203170909.jpg",
+      "name": "Mosambi 1 kg",
+      "id": "13",
+      "original_price": "99.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/590002744/dates-imported-approx-400-g-500-g-product-images-o590002744-p590002744-0-202203170240.jpg",
+      "name": "Dates Imported (Approx 400 g - 500 g)",
+      "id": "14",
+      "original_price": "176.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/590001285/banana-robusta-6-pcs-box-approx-800-g-1100-g-product-images-o590001285-p590001285-0-202203170808.jpg",
+      "name": "Banana Robusta 6 pcs (Box) (Approx 800 g - 1100 g)",
+      "id": "15",
+      "original_price": "40.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/590003550/bhendi-okra-500-g-product-images-o590003550-p590003550-0-202203170339.jpg",
+      "name": "Bhendi (Okra) 250 g",
+      "id": "16",
+      "original_price": "15.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/590000245/button-mushroom-200-g-product-images-o590000245-p590000245-0-202203151749.jpg",
+      "name": "Button Mushroom 200 g",
+      "id": "17",
+      "original_price": "35.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/590007689/dragonfruit-per-pc-approx-280-g-450-g-product-images-o590007689-p590007689-0-202203170904.jpg",
+      "name": "Dragonfruit per pc (Approx 280 g - 450 g)",
+      "id": "18",
+      "original_price": "70.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/590003537/cauliflower-1-pc-approx-600-g-1000-g-product-images-o590003537-p590003537-0-202203170515.jpg",
+      "name": "Cauliflower 1 pc (Approx 600 g - 1000 g)",
+      "id": "19",
+      "original_price": "13.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/590001738/orange-6-pcs-pack-approx-750-g-900-g-product-images-o590001738-p590034369-0-202203150755.jpg",
+      "name": "Orange 6 pcs (Pack) (Approx 750 g - 900 g)",
+      "id": "20",
+      "original_price": "79.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/590004487/apple-indian-6-pcs-pack-approx-750-g-950-g-product-images-o590004487-p590004487-0-202203170227.jpg",
+      "name": "Apple Indian 6 pcs (Pack) (Approx 750 g - 950 g)",
+      "id": "21",
+      "original_price": "129.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/590003896/avocado-hass-approx-400-g-600-g-product-images-o590003896-p590003896-0-202203150700.jpg",
+      "name": "Avocado Hass (Approx. 170 g - 250 g)",
+      "id": "22",
+      "original_price": "219.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/590001788/potato-low-sugar-2-kg-product-images-o590001788-p590001788-0-202207272007.jpg",
+      "name": "Potato Low Sugar 2 kg",
+      "id": "23",
+      "original_price": "88.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/491186625/good-life-almonds-500-g-product-images-o491186625-p491186625-0-202205180139.jpg",
+      "name": "Good Life Almonds 500 g",
+      "id": "24",
+      "original_price": "339.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/491186631/good-life-w320-cashews-500-g-product-images-o491186631-p491186631-0-202205180138.jpg",
+      "name": "Good Life (W320) Cashews 500 g",
+      "id": "25",
+      "original_price": "399.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/490009614/lotte-creamfilled-choco-pie-28-g-pack-of-12-product-images-o490009614-p490009614-0-202203170648.jpg",
+      "name": "Lotte Choco Pie 28 g (12 pcs)",
+      "id": "26",
+      "original_price": "99.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/490555510/orion-choco-pie-336-g-pack-of-12-product-images-o490555510-p590361054-0-202203150708.jpg",
+      "name": "Orion Choco Pie 28 g (12 pcs)",
+      "id": "27",
+      "original_price": "125.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492367966/surf-excel-easy-wash-detergent-powder-5-kg-product-images-o492367966-p590837659-0-202208111657.jpg",
+      "name": "Surf Excel Easy Wash Detergent Powder 5 kg",
+      "id": "28",
+      "original_price": "605.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/491252834/tide-lemon-mint-detergent-powder-5-kg-product-images-o491252834-p590860214-0-202208241712.jpg",
+      "name": "Tide Lemon & Mint Detergent Powder 5 kg",
+      "id": "29",
+      "original_price": "659.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/491252835/tide-jasmine-rose-detergent-powder-5-kg-get-extra-1-kg-free-product-images-o491252835-p590838653-0-202203151949.jpg",
+      "name": "Tide Jasmine & Rose Detergent Powder 5 kg (Get Extra 1 kg Free)",
+      "id": "30",
+      "original_price": "659.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/491335765/ariel-matic-top-load-detergent-powder-4-kg-get-extra-2-kg-free-product-images-o491335765-p491335765-0-202203151011.jpg",
+      "name": "Ariel Matic Top Load Detergent Powder 4 kg (Get Extra 2 kg Free)",
+      "id": "31",
+      "original_price": "1180.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/491335764/ariel-matic-front-load-detergent-powder-4-kg-get-extra-2-kg-free-product-images-o491335764-p491335764-0-202203150714.jpg",
+      "name": "Ariel Matic Front Load Detergent Powder 4 kg (Get Extra 2 kg Free)",
+      "id": "32",
+      "original_price": "1220.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/492848165/surf-excel-matic-top-load-detergent-powder-6-kg-product-images-o492848165-p591223798-0-202204291101.jpg",
+      "name": "Surf Excel Matic Top Load Detergent Powder 6 kg",
+      "id": "33",
+      "original_price": "1090.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/490729028/dove-nutritive-solutions-intense-repair-shampoo-650-ml-product-images-o490729028-p490729028-0-202203170458.jpg",
+      "name": "Dove Nutritive Solutions Intense Repair Shampoo 650 ml",
+      "id": "34",
+      "original_price": "450.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/490729045/head-shoulders-smooth-silky-anti-dandruff-shampoo-650-ml-product-images-o490729045-p490729045-0-202209221309.jpg",
+      "name": "Head & Shoulders Smooth & Silky Anti-Dandruff Shampoo 650 ml",
+      "id": "35",
+      "original_price": "444.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/490966833/tresemme-hair-fall-defense-shampoo-580-ml-product-images-o490966833-p490966833-0-202203150929.jpg",
+      "name": "Tresemme Hair Fall Defense Shampoo 580 ml",
+      "id": "36",
+      "original_price": "499.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/491046184/tresemme-pro-collection-keratin-smooth-shampoo-580-ml-product-images-o491046184-p491046184-0-202203151823.jpg",
+      "name": "TRESemme Keratin Smooth Shampoo 580 ml",
+      "id": "37",
+      "original_price": "499.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/491890614/parle-20-20-gold-cashew-almond-cookies-600-g-product-images-o491890614-p590032849-0-202203151534.jpg",
+      "name": "Parle 20-20 Gold Cashew Almond Cookies 600 g",
+      "id": "38",
+      "original_price": "95.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/491390714/britannia-good-day-choco-chip-cookies-400-g-product-images-o491390714-p590032794-0-202205172329.jpg",
+      "name": "Britannia Good Day Chocochip Cookies 400 g",
+      "id": "39",
+      "original_price": "70.00",
+      "discount_price": "0"
+    },
+    {
+      "image": "https://www.jiomart.com/images/product/150x150/491319789/sunfeast-dark-fantasy-original-choco-filled-biscuits-300-g-product-images-o491319789-p491319789-0-202205301919.jpg",
+      "name": "Sunfeast Dark Fantasy Original Choco Filled Biscuits 300 g",
+      "id": "40",
+      "original_price": "112.00",
+      "discount_price": "0"
     }
   ]
 }

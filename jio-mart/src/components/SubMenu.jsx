@@ -1,10 +1,12 @@
 import {
+  Text,
   Menu,
   MenuList,
   MenuItem,
   MenuButton,
   useDisclosure,
 } from "@chakra-ui/react";
+import { Link } from "react-router-dom";
 import { ChevronDownIcon, ChevronUpIcon } from '@chakra-ui/icons'
 
 export default function SubMenu({ item }) {
@@ -12,7 +14,7 @@ export default function SubMenu({ item }) {
   return (
     <Menu isOpen={isOpen}>
       <MenuButton color="black" onMouseEnter={onOpen} onMouseLeave={onClose}>
-        {item.name}
+      {item.name}
         {isOpen ? <ChevronUpIcon /> : <ChevronDownIcon />}
       </MenuButton>
       <MenuList bg="#ececed" onMouseEnter={onOpen} onMouseLeave={onClose}>
