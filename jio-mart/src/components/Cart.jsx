@@ -3,10 +3,15 @@ import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { useContext } from "react";
 import { CartContext } from "../context/CartProvider";
+import { AuthContext } from "../context/AuthContext";
+import { useNavigate } from "react-router-dom";
 
 
 const Cart = () => {
     const {setCount} = useContext(CartContext);
+    const {loginUser} = useContext(AuthContext);
+    const navigate = useNavigate();
+
 
     let cart = JSON.parse(localStorage.getItem('cart')) || [];
     let o_total = 0;
@@ -15,7 +20,8 @@ const Cart = () => {
 
     const orderPlacedHandler = () =>{
         alert("Order Placed Successfully");
-        window.location.replace("./");
+        loginUser();
+        navigate("/");
     }
 
     useEffect(() =>{
